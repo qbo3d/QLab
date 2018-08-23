@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow03" >
+
+    <LinearLayout
+        android:id="@+id/ll_m127_con"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_m127_titulo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/n_127_con"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_super_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/texto"
+            android:textColor="@color/azul_2"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_numero_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_numero" />
+
+        <TextView
+            android:id="@+id/et_m127_numero_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_w1_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_w1" />
+
+        <TextView
+            android:id="@+id/et_m127_w1_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_w2_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_w2" />
+
+        <TextView
+            android:id="@+id/et_m127_w2_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_w3_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_w3" />
+
+        <TextView
+            android:id="@+id/et_m127_w3_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_w_titulo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_w" />
+
+        <TextView
+            android:id="@+id/tv_m127_w_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_v_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_v" />
+
+        <TextView
+            android:id="@+id/et_m127_v_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_vo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_vo" />
+
+        <TextView
+            android:id="@+id/et_m127_vo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_wo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_vo" />
+
+        <TextView
+            android:id="@+id/et_m127_wo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_miw_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_miw" />
+
+        <TextView
+            android:id="@+id/et_m127_miw_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_gs_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_gs" />
+
+        <TextView
+            android:id="@+id/et_m127_gs_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_wi_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_wi" />
+
+        <TextView
+            android:id="@+id/et_m127_wi_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_lc_titulo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_lc" />
+
+        <TextView
+            android:id="@+id/tv_m127_lc_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_r_titulo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_r" />
+
+        <TextView
+            android:id="@+id/tv_m127_r_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_cv_titulo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_cv" />
+
+        <TextView
+            android:id="@+id/tv_m127_cv_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m127_cl_titulo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m127_cl" />
+
+        <TextView
+            android:id="@+id/tv_m127_cl_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/men_iniciar"
+        android:icon="@drawable/home_gray"
+        android:orderInCategory="100"
+        android:title="@string/men_inicio"/>
+    <item
+        android:id="@+id/men_regresar"
+        android:icon="@drawable/arrow_left"
+        android:orderInCategory="100"
+        android:title="@string/men_regresar"/>
+    <item
+        android:id="@+id/men_eliminar"
+        android:icon="@drawable/minus"
+        android:orderInCategory="100"
+        android:title="@string/men_eliminar"/>
+
+</menu>

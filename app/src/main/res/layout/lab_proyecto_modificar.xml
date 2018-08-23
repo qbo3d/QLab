@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow02" >
+
+    <LinearLayout
+        android:id="@+id/ll_proyecto_mod"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_pro_titulo_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/pro_mod"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_pro_nombre_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pro_nombre" />
+
+        <TextView
+            android:id="@+id/tv_pro_nombre_pos_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_pro_usu_cedula_fk_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pro_usu_cedula_fk" />
+
+        <TextView
+            android:id="@+id/tv_pro_usu_cedula_fk_pos_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_pro_localizacion_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pro_localizacion" />
+
+        <EditText
+            android:id="@+id/et_pro_localizacion_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_pro_fecha_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pro_fecha" />
+
+        <DatePicker
+            android:id="@+id/dp_pro_fecha_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/bt_pro_modificar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pue_modificar" />
+    </LinearLayout>
+
+</ScrollView>

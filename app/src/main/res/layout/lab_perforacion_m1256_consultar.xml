@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow03" >
+
+    <LinearLayout
+        android:id="@+id/ll_perforacion_con"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_per_titulo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/per_con"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_per_super_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/texto"
+            android:textColor="@color/azul_2"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_per_numero_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/per_numero" />
+
+        <TextView
+            android:id="@+id/et_per_numero_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_per_profundidad_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/per_profundidad" />
+
+        <TextView
+            android:id="@+id/et_per_profundidad_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_per_observacion_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/per_observacion" />
+
+        <TextView
+            android:id="@+id/et_per_observacion_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <Button
+            android:id="@+id/bt_per_ll_consultar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mue_ll_con" />
+
+        <Button
+            android:id="@+id/bt_per_lp_consultar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mue_lp_con" />
+
+        <Button
+            android:id="@+id/bt_per_hn_consultar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mue_hn_con" />
+    </LinearLayout>
+
+</ScrollView>

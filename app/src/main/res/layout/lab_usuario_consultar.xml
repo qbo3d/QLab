@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow03" >
+
+    <LinearLayout
+        android:id="@+id/ll_usuario_con"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_usu_titulo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/usu_con"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_cedula_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_cedula" />
+
+        <TextView
+            android:id="@+id/tv_usu_id_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_nombre_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_nombre" />
+
+        <TextView
+            android:id="@+id/et_usu_nombre_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_apellido_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_apellido" />
+
+        <TextView
+            android:id="@+id/et_usu_apellido_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_foto_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_foto" />
+
+        <ImageView
+            android:id="@+id/bt_usu_foto_con"
+            android:layout_width="320dp"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/usu_con"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/tv_usu_codigo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_codigo" />
+
+        <TextView
+            android:id="@+id/et_usu_codigo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_fechanacimiento_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_fechanacimiento" />
+
+        <TextView
+            android:id="@+id/dp_usu_fechanacimiento_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_email_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_email" />
+
+        <TextView
+            android:id="@+id/et_usu_email_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_cel_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_cel" />
+
+        <TextView
+            android:id="@+id/et_usu_cel_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_tipo_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_tipo" />
+
+        <TextView
+            android:id="@+id/tv_usu_tipo_pos_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <Button
+            android:id="@+id/bt_puente_proyecto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pro_cre" />
+    </LinearLayout>
+
+</ScrollView>

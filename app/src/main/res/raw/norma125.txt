@@ -1,0 +1,176 @@
+LABORATORIO & I.N.V. E – 125 – 07 Y I.N.V. E – 126 – 07
+ENSAYO & Desarrollar laboratorio
+TITULO LAB 125 & DETERMINACIÓN DEL LÍMITE LÍQUIDO DE LOS SUELOS 
+TITULO LAB 125 & I.N.V. E – 125 – 07 
+1. OBJETO & 1.1 El límite líquido de un suelo es el contenido de humedad expresado en porcentaje del suelo secado en el horno, cuando éste se halla en el límite entre el estado líquido y el estado plástico. 
+1. OBJETO & 1.2 Para los fines de esta especificación, cualquier valor observado o calculado deberá aproximarse a la “unidad mas cercana”. 
+1. OBJETO & 1.3 Esta norma no pretende considerar todos los problemas de seguridad asociados con su uso. Es de responsabilidad de quien la emplee, el establecimiento de prácticas apropiadas de seguridad y salubridad y la aplicación de limitaciones regulatorias con anterioridad a su uso. 
+2. EQUIPO & Vasija de evaporación
+2. EQUIPO & 2.1 Una vasija de porcelana de 115 mm (4½") de diámetro, aproximadamente. 
+2. EQUIPO & Espátula
+2. EQUIPO & 2.2 Una espátula de hoja flexible de 75mm a 100 mm (3"a 4”) de longitud y 20mm (3/4") de ancho, aproximadamente. 
+2. EQUIPO & 2.3 Aparato del Límite Líquido 
+2. EQUIPO & Aparato del Límite Líquido de operación manual
+2. EQUIPO & 2.3.1 Es un aparato consistente en una cazuela de bronce con sus aditamentos, construido de acuerdo con las dimensiones señaladas en la Figura 1. 
+2. EQUIPO & Aparato del Límite Líquido de operación mecánica
+2. EQUIPO & 2.3.2 Es un aparato equipado con un motor para producir la elevación y posterior caída de la cazuela (golpes) a una altura y velocidad controladas. Consta de una cazuela de bronce con los aditamentos y las dimensiones de la Figura 1. El aparato debe dar los mismos valores para el límite líquido que los obtenidos con el aparato de operación manual. 
+2. EQUIPO & Nota 1.- La base del aparato medidor del límite líquido debe tener una resiliencia entre 80 y 90 por ciento, cuando ha sido determinada de acuerdo con el procedimiento indicado en el Apéndice. 
+2. EQUIPO & Ranurador
+2. EQUIPO & 2.4 Un ranurador curvo (trapezoidal), conforme con las dimensiones exactas indicadas en las Figura 1. El calibrador no tie ne que ser parte del ranurador. 
+2. EQUIPO & Nota 2.- El ranurador plano no debe ser usado en reemplazo del ranurador curvo. Hay estudios que indican que el límite líquido aumenta levemente al utilizar el plano en lugar del curvo. 
+2. EQUIPO & Calibrador
+2. EQUIPO & 2.5 Ya sea incorporado o separado del ranurador, de acuerdo con la dimensión exacta "d", mostrada en la Figura 1, el cual puede ser, si fuere separado, una barra de metal de 10.0 ± 0.2mm (0.394 ± 0.008") de espesor y de aproximadamente 50 mm (2") de longitud. 
+2. EQUIPO & Recipientes
+2. EQUIPO & 2.6 Hechos de material resistente a la corrosión, y cuya masa no cambie con calentamientos y enfriamientos repetidos. Deben tener tapas que ajusten bien, para evitar pérdidas de humedad de las muestras antes de la pesada inicial y para evitar la absorción de humedad de la atmósfera tras el secado y antes de la pesada final. Se requiere un recipiente para cada determinación del contenido de agua. 
+2. EQUIPO & Balanza
+2. EQUIPO & 2.7 Una balanza con una sensibilidad de 0.01 gr. 
+2. EQUIPO & Horno
+2. EQUIPO & 2.8 Un horno termostáticamente controlado, capaz de mantener temperaturas de 110 ± 5°C (230 ± 9°F) para secar las muestras. 
+3. MUESTRA - MÉTODO A & Se toma una muestra que pese aproximadamente 100 g. de una porción de 
+3. MUESTRA - MÉTODO A & material completamente mezclado que pase el tamiz de 0.425 mm (No.40), obtenido de acuerdo con el método descrito en las normas INV E – 106 e INV E – 107. 
+4. AJUSTE DEL APARATO DEL LÍMITE LÍQUIDO - MÉTODO A & 4.1 Se deberá inspeccionar el aparato de límite líquido para verificar que se halle en buenas condiciones de trabajo; que el pin que conecta la cazuela no esté tan gastado; que tenga juego lateral; que los tornillos que conectan la cazuela a su soporte estén ajustados; que los puntos de contacto en la cazuela y en la base no presenten un desgaste excesivo; que el borde de la cazuela no se encuentre desgastado y que la zona de la cazuela donde se ejecuta la ranura a la muestra de suelo no se encuentre gastada por el uso prolongado. Además, se debe inspeccionar el ranurador para verificar que las dimensiones son las exactas que se indican en la Figura 1. 
+4. AJUSTE DEL APARATO DEL LÍMITE LÍQUIDO - MÉTODO A & Se considera que el desgaste es excesivo, cuando el diámetro del punto de contacto de la cazuela con la base excede de 13mm (0.5") o cuando cualquier punto sobre el borde de la cazuela se ha desgastado aproximadamente en la mitad del espesor original. Aun cuando se aprecie una ligera ranura en el centro de la cazuela, ésta no es objetable. Pero si la ranura se hace pronunciada antes de que aparezcan otros signos de desgaste, se considera que la cazuela está excesivamente gastada y deberá ser reemplazada. 
+4. AJUSTE DEL APARATO DEL LÍMITE LÍQUIDO - MÉTODO A & Una base excesivamente desgastada puede pulirse, pero hasta cuando la tolerancia mostrada en la Figura 1 no exceda de 2.5 mm (0.1") y la distancia entre la excéntrica de la cazuela y la base se mantenga dentro de la tolerancia especificada en la Figura 1 
+4. AJUSTE DEL APARATO DEL LÍMITE LÍQUIDO - MÉTODO A & 4.2 Por medio del calibrador del mango del ranurador y de la platina de ajuste H (Figura 1), se ajusta la altura a la cual levanta la cazuela, de tal manera que el punto de la cazuela que hace contacto con la base esté a 10.0 ±0.2mm (0.394") sobre ésta. Se asegura la platina de ajuste H, apretando los tornillos I. Con el calibrador aún colocado, se comprueba el ajuste girando la manija rápidamente varias veces. Si el ajuste es correcto, se oirá un sonido de roce cuando la excéntrica golpea contra la cazuela. Si la cazuela se levanta del calibrador o no se oye ruido, se debe hacer un nuevo ajuste. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.1 Se coloca la muestra de suelo en la vasija de evaporación y se mezcla completamente con 15 a 20 ml de agua destilada, agitándola, amasándola y tajándola con una espátula en forma alternada y repetida. Realizar más adiciones de agua en incrementos de 1 a 3 ml. Se mezcla completamente cada incremento de agua con el suelo como se ha descrito previamente, antes de cualquier nueva adición. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Nota 3.-Algunos suelos absorben el agua lentamente, por lo cual es posible que se adicionen los incrementos de agua tan rápidamente que se obtenga un límite líquido falso. Esto puede evitarse mezclando más y dando un mayor tiempo de absorción, (1 hora aproximadamente). Se puede usar agua potable para las pruebas rutinarias, si pruebas de comparación no muestran diferencias entre los resultados obtenidos usando agua potable, agua destilada o agua desmineralizada. Sin embargo pruebas para confirmación o de discusión se deben hacer usando agua destilada o desmineralizada. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.2 Cuando agua suficiente ha sido mezclada perfectamente con el suelo hasta formar una pasta uniforme de consistencia dura, se coloca una cantidad adecuada de esta mezcla en la cazuela encima del punto donde ésta descansa en la base y se comprime y extiende con la espátula para nivelarla y a la vez, dejarla con una profundidad de 10 mm en el punto de su máximo espesor. Se debe usar el menor número posible de pasadas con la espátula, evitando atrapar burbujas de aire en la masa de suelo. El suelo excedente se debe devolver al recipiente mezclador y se debe tapar con el fin de que se retenga la humedad de la muestra. Se divide el suelo en la cazuela de bronce con una firme pasada del ranurador a lo largo del diámetro y a través de la línea central de la masa del suelo, de modo que se forme una ranura limpia y de dimensiones apropiadas como se ve en la Figuras 2. Para evitar rasgar los lados de la ranura y el desmoronamiento de la pasta del suelo en la cazuela de bronce, se permite hacer hasta 6 pasadas, de adelante hacia atrás o de atrás hacia adelante, contando cada recorrido como una pasada; con cada pasada el ranurador debe penetrar un poco más profundo, hasta que la última pasada de atrás hacia adelante limpie el fondo de la cazuela. La ranura se deberá hacer con el menor número posible de pasadas. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Figura 01
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Aparato manual para límite líquido 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Cuadro 01
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Nota: 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & La platina “H” debe incluir un tornillo de seguridad (I). 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Cuando se usan ranuradores podrá admitirse +Ql mm de tolerancia para “b”. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Las patas para la base deberán ser de material resistente. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Las unidades métricas son las dimensiones requeridas; las inglesas son solo aproximadas. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Figura 02
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Equipo de Límite liquido con muestra de su suelo dividida 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.3 Se levanta y golpea la cazuela girando la manija F, a una velocidad de dos (2) revoluciones por segundo, hasta que las dos mitades de la pasta de suelo se pongan en contacto en el fondo de la ranura a lo largo de una distancia de cerca de 13mm (0.5"). Se anota el número de golpes requeridos para cerrar la ranura. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Algunos suelos tienden a deslizarse en lugar de fluir sobre la superficie de la cazuela. Cuando esto ocurra, se deberá agregar más agua a la muestra y mezclar de nuevo. Se coloca nuevamente el suelo humedecido en la cazuela, se hace la ranura con el ranurador y se repite la Sección 5.2. Si el suelo se sigue deslizando sobre la cazuela a un número de golpes inferior a 25, este ensayo no es aplicable y se deberá indicar que el Límite Líquido no se puede determinar. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.4 Se saca una tajada de suelo, aproximadamente del ancho de la espátula; se toma de uno y otro lado y en ángulo recto con la ranura incluyendo la porción de ésta en la cual se hizo contacto y se coloca en un recipiente adecuado. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & Se pesa y se anota el valor. Se coloca el suelo con el recipiente dentro del horno a 110 ± 5°C (230 ± 9°F) hasta obtener una masa constante y se vuelve a pesar tan pronto como se haya enfriado antes de que pueda haber absorbido humedad higroscópica. Se anota esta masa, así como la pérdida de masa debida al secamiento y la masa del agua. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.5 Se transfiere el suelo sobrante en la cazuela de bronce a la cazuela de porcelana. La cazuela y el ranurador se lavan y se secan para prepararlas para el tanteo siguiente. 
+5. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR CURVO - MÉTODO A & 5.6 Se repite la operación anterior por lo menos en dos ensayos adicionales con el suelo restante en la vasija de porcelana, al cual se le agrega agua suficiente para ponerlo en un estado de mayor fluidez. El objeto de este procedimiento es obtener muestras de tal consistencia que al menos una de las determinaciones del número de golpes requeridos para cerrar la ranura del suelo se halle en cada uno de los siguientes intervalos: 25-35; 20-30; 15-25, de manera que la oscilación entre las 3 determinaciones sea de, por lo menos, 10 golpes. 
+6. PROCEDIMIENTO CUANDO SE UTILIZA EL RANURADOR PLANO - MÉTODO A & El procedimiento debe ser igual al descrito en la Sección 5 excepto en la Sección 5.2 para la formación de la ranura. Ésta se forma en la pasta de suelo hundiendo el lado biselado del ranurador hacia delante en una línea que va desde el punto más alto hasta el más bajo del borde de la cazuela. Al hacer la ranura se sostiene el ranurador contra la superficie de la cazuela y se forma un arco, manteniendo el ranurador perpendicular a la superficie de la cazuela durante su movimiento. En suelos en los que no se pueda hacer la ranura en una sola pasada sin desagarrarlo, se corta la ranura con varias pasadas del ranurador. También se puede hacer una ranura ligeramente menor usando una espátula y usando luego el ranurador hasta completar la dimensión deseada. Se debe tener un cuidado extremo con el fin de evitar que la pasta de suelo se deslice sobre la superficie de la cazuela. 
+7. CÁLCULOS - MÉTODO A & 7.1 Se calcula el contenido de humedad del suelo, expresándolo como porcentaje de la masa del suelo secado en el horno, como sigue: 
+7. CÁLCULOS - MÉTODO A & Cálculo 01
+7. CÁLCULOS - MÉTODO A & El porcentaje de humedad se debe calcular con aproximación al entero más próximo. 
+7. CÁLCULOS - MÉTODO A & 7.2 Preparación de la curva de fluidez – La "curva de fluidez", que representa la relación entre el contenido de humedad y el correspondiente número de golpes de la cazuela de bronce, se dibuja en un gráfico semilogarítmico, con el contenido de humedad como abscisa sobre la escala aritmética y el número de golpes como ordenada sobre la escala logarítmica. La curva de flujo es una línea recta promedia que pasa tan cerca, como sea posible, de los tres o más puntos dibujados. 
+7. CÁLCULOS - MÉTODO A & 7.3 Límite Líquido – El contenido de humedad correspondiente a la intersección de la curva de flujo con la ordenada de 25 golpes se toma como Límite Líquido del suelo y se aproxima este valor al número entero más cercano. 
+8. MUESTRA - MÉTODO B (Ensayo de comprobación) & Se toma una muestra con una masa de aproximadamente 50 g, como se explica en la Sección 3. 
+9. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 9.1 El procedimiento será igual al descrito en las Secciones 5.1 a 5.5, a excepción de la humedad añadida a la muestra que será de 8 a 10 ml y de la muestra para humedad, tomada de acuerdo con la Sección 5.4, la que se tomará sólo para el ensayo aceptado, descrito en 9.3. 
+9. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 9.2 Se deberán observar por lo menos dos cierres de la ranura antes de que se acepte una de ellas para anotarla, con el fin de verificar que el número de golpes es verdaderamente característico del suelo que se está ensayando. 
+9. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 9.3 Para lograr una precisión igual a la obtenida por el método normal de los tres (3) puntos (Método A), el número de golpes aceptado para el ensayo debe restringirse a un rango entre 22 y 28. Después de obtener el cierre preliminar de la ranura en el rango aceptable de golpes, se devuelve el resto de suelo que queda en la cazuela al recipiente para mezclar sin añadirle más agua y se repite el procedimiento como se explica en las Secciones 5.2 y 5.3. Si el segundo cierre ocurre dentro del rango aceptable (22-28 golpes inclusive) y el segundo cierre no difiere en más de dos golpes (2) del primero, se toma un espécimen para la determinación del contenido de agua como se indica en la Sección 5.4. 
+9. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 9.4 Se aceptarán cierres de la ranura que requieran de 15 a 40 golpes , siempre y cuando que se toleren variaciones de ± 5% en relación con el verdadero Límite Líquido. 
+10. CÁLCULOS - MÉTODO B (Ensayo de comprobación) & El contenido de humedad se calcula en la forma indicada en la Sección 7.1 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & 11.1 El Límite Líquido se puede determinar por uno de los siguientes métodos: mediante el nomograma (Figura 3); por medio del diagrama de la Figura 4, o por cualquier otro método de cálculo que dé valores de Límite Líquido con la misma precisión. El método normal de los tres (3) puntos debe emplearse como ensayo de referencia para resolver cualquier duda. 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & 11.2 La clave de la Figura 3 indica el modo de usar el nomograma. (Pendiente media). 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & 11.3 El diagrama de la Figura 4 (curva de fluidez múltiple) se usa dibujando sobre el mismo, un punto que repr esente el contenido de humedad. versus el número de golpes. Luego se traza una línea por dicho punto, que sea paralela a la curva más cercana del diagrama. El Límite Líquido será el contenido de humedad correspondiente a la intersección de esta línea con la de 25 golpes. 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & 11.4 El Límite Líquido también puede ser calcula do utilizando el método del factor corrector K (Tabla 1) el cual usa el contenido de humedad de la muestra del punto considerado para el cálculo, multiplicado por el factor k correspondiente al número de golpes requeridos para el segundo cierre de la ranura, descrito en la sección 9.3. 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Cálculo 02
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Cálculo 03
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & donde: 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & N = número de golpes para que se cierre la ranura; 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & WN = contenido de agua para el punto realizado que requirió N golpes para cerrar la ranura, y 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & K = factor de corrección Tabla 1 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Tabla 01
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Factores para la Obtención del Límite Líquido a partir de la humedad y del número de golpes que causan el cierre de la ranura 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Figura 03
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Nomograma desarrollado por la Waterways Experiment Station, Corps of Engineers, U.S. Army, para determinar el límite líquido usando el método de la pendiente media 
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Figura 04
+11. LIMITE LÍQUIDO - MÉTODO B (Ensayo de comprobación) & Diagrama efectuado por la Washington State Highway Departament para el cálculo del límite líquido 
+12. METODOS QUE SE PUEDEN USAR - MÉTODO B (Ensayo de comprobación) & En caso de desacuerdos importantes y donde sea necesario hacer ensayos de comprobación, se usa el Método “A” utilizando el ranurador curvo, anteriormente descrito. Los resultados de los ensayos de Límite Líquido son afectados por: 
+12. METODOS QUE SE PUEDEN USAR - MÉTODO B (Ensayo de comprobación) & - El tiempo requerido para hacerlo 
+12. METODOS QUE SE PUEDEN USAR - MÉTODO B (Ensayo de comprobación) & - El contenido de humedad con el cual se inicia el ensayo. 
+12. METODOS QUE SE PUEDEN USAR - MÉTODO B (Ensayo de comprobación) & - La adición de suelo seco a la muestra preparada. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 13.1 Al hacer la prueba del Límite Líquido para comprobar resultados o cuando la prueba decida alguna controversia , se deberá usar las siguientes programaciones de tiempo: 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & - Mezcla do de suelo con agua : 5-10 minutos empleándose el periodo más largo para los suelos más plásticos. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & - Curado en el humedecedor: 30 minutos. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & - Remezclado antes de colocar el material en la cazuela de bronce: Agregar 1 ml de agua y mezclar durante 1 minuto 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & - Colocación de la cazuela de bronce, ensayo y pe sada: 3 minutos. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & - Adición de agua y remezcla po 3 minutos. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & 13.2 No se debe reportar ningún ensayo que haya requerido más de 35 o menos de 15 golpes de la cazuela de bronce. 
+13. PROCEDIMIENTO - MÉTODO B (Ensayo de comprobación) & En ningún caso se debe agregar material seco a la muestra húmeda en la cazuela para disminuir la humedad o para aumentar la cantidad de muestra. 
+14. PRECISIÓN - MÉTODO B (Ensayo de comprobación) & 
+14. PRECISIÓN - MÉTODO B (Ensayo de comprobación) & 14.1 Este planteamiento se aplica a suelos con límite líquido entre 21 y 67. 
+14. PRECISIÓN - MÉTODO B (Ensayo de comprobación) & 14.2 Repetibilidad (un solo operador) – Dos resultados obtenidos por el mismo operador, con la misma muestra, en el mismo laboratorio y usando los mismos aparatos y en días diferentes deben cuestionarse si los resultados difieren en más de 7% de su promedio. 
+14. PRECISIÓN - MÉTODO B (Ensayo de comprobación) & 14.3 Reproducibilidad (varios laboratorios) – Dos resultados obtenidos por diferentes operadores, en diferentes labor atorios, deben cuestionarse si ellos difieren de uno a otro en más del 13% de su promedio. 
+15. NORMAS DE REFERENCIA & AASHTO T 89-02 
+15. NORMAS DE REFERENCIA & ASTM D 4318-00 
+16. APÉNDICE & PRUEBA DE RESILIENCIA DE LA BASE DEL EQUIPO DE LÍMITE LÍQUIDO. 
+16. APÉNDICE & El aparato para medir la resiliencia de la base del equipo de límite líquido se enseña en la Figura 5 y se complementa con la Tabla 2. El aparato consiste en un tubo y su tapa de acrílico transparente, una bola pulida de acero de 8mm de diámetro y una barra pequeña imantada. El cilindro debe estar fijado permanentemente a la tapa o atornillado a ésta como se ve en el dibujo. La bola de acero fijada a la barra pequeña imantada está colocada por dentro de la tapa . Se coloca entonces el cilindro encima de la base que se va a probar. Sosteniendo el tubo hasta tocar ligeramente la base del equipo del límite líquido con una mano, se suelta la bola retirando el imán fuera de la tapa. Se deben usar las medidas de la escala que están en la parte exterior del cilindro para determinar el punto más alto alcanzado por la parte inferior de la bola al rebotar. Se repite la caída de la bola por lo menos 3 veces, colocando el probador en diferente posición para cada caída. El promedio del rebote de la bola de acero expresado como porcentaje del total de la caída, es igual a la resiliencia de la base del equipo. 
+16. APÉNDICE & Las pruebas de resiliencia de la base se deben realizar a temperatura ambiente. 
+16. APÉNDICE & Figura 05
+16. APÉNDICE & Probador de resiliencia 
+16. APÉNDICE & Tabla 02
+16. APÉNDICE & Medidas del probador de resiliencia 
+TITULO LAB 126 & LÍMITE PLÁSTICO E ÍNDICE DE PLASTICIDAD DE SUELOS 
+TITULO LAB 126 & I.N.V. E – 126 – 07 
+1. OBJETO & 1.1 El límite plástic o de un suelo es el contenido más bajo de agua , determinado por este procedimiento, en el cual el suelo permanece en estado plástico. El índice de plasticidad de un suelo es el tamaño del intervalo de contenido de agua, expresado como un porcentaje de la masa seca de suelo, dentro del cual el material está en un estado plástico. Este índice corresponde a la diferencia numérica entre el límite líquido y el límite plástico del suelo. 
+1. OBJETO & 1.2 Un valor observado o calculado de un límite de un suelo debe redondearse a la “unidad más cercana”. 
+1. OBJETO & 1.3 El método de moldeo manual de rollos de suelo debe ser dado por el procedimiento normativo indicado en esta norma. Se denomina límite plástico a la humedad más baja con la cual pueden formarse rollos de suelo de unos 3mm (1/8") de diámetro, rodando dicho suelo entre la palma de la mano y una superficie lisa, sin que dichos rollos se desmoronen. 
+2. EQUIPO Y MATERIALES & Espátula
+2. EQUIPO Y MATERIALES & 2.1 De hoja flexible, de unos 76.2 mm (3") de longitud por 20 mm (3/4") de ancho. 
+2. EQUIPO Y MATERIALES & Cápsula para evaporación
+2. EQUIPO Y MATERIALES & 2.2 De porcelana, o similar, de 115 mm (4 1/2”) de diámetro. 
+2. EQUIPO Y MATERIALES & Balanza
+2. EQUIPO Y MATERIALES & 2.3 De 100 g de capacidad con aproximación a 0.01 g. 
+2. EQUIPO Y MATERIALES & Aparato de enrollamiento
+2. EQUIPO Y MATERIALES & 2.4 Para determinar el límite plástico, (opcional). Un aparato acrílico de conformidad con las dimensiones que se muestran en la Figura 1. 
+2. EQUIPO Y MATERIALES & Papel para el aparato de enrollamiento
+2. EQUIPO Y MATERIALES & 2.5 Papel no satinado que no añada materias ajenas (fibras, fragmentos de papel, etc.) al suelo durante el proceso de moldeo de rollos de suelo. Este papel deberá adherirse a las bandejas superior e inferior del aparato, ya sea usando un pegante auto adhesivo. 
+2. EQUIPO Y MATERIALES & Nota 1- Se debe tener especial cuidado en quitar el adhesivo que quede en el aparato para enrollado después de llevada a cabo la prueba. Pruebas repetidas, sin retirar este pegante, tendrán como resultado de la acumulación de adhesivo, una disminución del diámetro de los rollos del suelo. 
+2. EQUIPO Y MATERIALES & Recipientes
+2. EQUIPO Y MATERIALES & 2.6 Se deben emplear recipientes apropiados, hechos de material resistente a la corrosión y que no estén sujetos a cambios en su masa o a desintegración por repetidos calentamientos y enfriamientos. Los recipientes deben tener tapas que cierren a presión para prevenir pérdidas de humedad de las muestras antes de hacer la determinación inicial de masa y para prevenir la absorción de la humedad de la atmósfera después del secado y antes de la determinación final de la masa. Se requiere un recipiente para cada determinación de humedad. 
+2. EQUIPO Y MATERIALES & Horno
+2. EQUIPO Y MATERIALES & 2.7 Termostáticamente controlado, regulable a 110 ± 5°C (230 ± 9°F). 
+2. EQUIPO Y MATERIALES & Tamiz de malla cuadrada de 425 µm (No.40)
+2. EQUIPO Y MATERIALES & 2.8 Tamiz – De 425 µm (No.40). 
+2. EQUIPO Y MATERIALES & Agua destilada
+2. EQUIPO Y MATERIALES & 2.9 Agua destilada. 
+2. EQUIPO Y MATERIALES & Superficie lisa
+2. EQUIPO Y MATERIALES & 2.10 Para amasado y enrollamiento. Usualmente se utiliza un vidrio grueso esmerilado. 
+3. PREPARACIÓN DE LA MUESTRA & 3.1 Si se quiere determinar sólo el límite plástico, se toman aproximadamente 20 g de la muestra que pase por el tamiz de 425 µm (No.40), obtenidos de acuerdo con las normas INV E – 106 o INV E – 107 (Preparación en seco y en húmedo de muestras de suelo para análisis granulométrico y determinación de las constantes físicas). Se amasa con agua destilada hasta que pueda formarse con facilidad una esfera con la masa de suelo. Se toma una porción de unos 6 g de dicha esfera como muestra para el ensayo. 
+3. PREPARACIÓN DE LA MUESTRA & El secado previo del material en horno, estufa o al aire, puede cambiar (generalmente disminuir) el límite plástico de un suelo con material orgánico aunque este cambio puede ser poco importante. 
+3. PREPARACIÓN DE LA MUESTRA & 3.2 Si se requieren el límite líquido y el límite plástico, se toma una muestra de unos 15 g. de la porción de suelo humedecida y amasada, preparada de acuerdo con la norma INV E – 125 (determinación del límite líquido de los suelos). La muestra debe tomarse en una etapa del proceso de amasado en que se pueda formar fácilmente con ella una esfera, sin que se pegue demasiado a los dedos al aplastarla. Si el ensayo se ejecuta después de realizar el del límite líquido y en dicho intervalo la muestra se ha secado, se debe añadir más agua. 
+4. PROCEDIMIENTO & 4.1 Se secciona una porción de 1.5 a 2.0 g de la masa de suelo tomada de acuerdo con la Sección 3. Con la porción seleccionada, se forma una masa elipsoidal. 
+4. PROCEDIMIENTO & 4.2 Emplear uno de los siguientes métodos para formar los rollos de masa de suelo de 3 mm de diámetro, a razón de 80 a 90 rotaciones por minuto, contando como rotación un movimiento completo de la mano hacia adelante y hacia atrás, regresando así, a la posición inicial. 
+4. PROCEDIMIENTO & Figura 01
+4. PROCEDIMIENTO & Aparato de enrollamiento para determinar el Límite Plástico 
+4. PROCEDIMIENTO & Dimensiones: 
+4. PROCEDIMIENTO & IW-aproximadamente 100mm 
+4. PROCEDIMIENTO & L-aproximadamente 200mm T- 10 a 15 mm. Véase Nota B T’- 5 mm 
+4. PROCEDIMIENTO & H- 3.20 + 0.25mm más el grueso total del papel sin glaseado, adherido al fondo de la bandeja. Véase Nota C 
+4. PROCEDIMIENTO & W- Véase Nota A 
+4. PROCEDIMIENTO & Nota A - La tolerancia entre el ancho de la bandeja superior (W) y el ancho interior (IW) debe ser tal, que la bandeja superior pueda deslizarse con facilidad en los rieles sin tambalearse. 
+4. PROCEDIMIENTO & Nota B - La bandeja superior debe ser lo suficientemente rígida para que el grosor de los rollos de suelo no se vea afectado por la flexibilidad de la bandeja superior. 
+4. PROCEDIMIENTO & Nota C - El ancho de los rieles de los lados debe estar entre 3 y 6mm. 
+4. PROCEDIMIENTO & 4.2.1 Método de Moldeo de Rollos Manual – Se rueda la masa de suelo entre la palma de la mano o los dedos y el plato de vidrio esmerilado (o un pedazo de papel que esté sobre la superficie horizontal y lisa) con solo la presión necesaria para formar un rollo de diámetro uniforme en toda su longitud. El rollo se debe adelgazar más con cada rotación, hasta que su diámetro alcance 3 mm, tomándose para ello no más de dos minutos. La presión requerida de la mano o de los dedos , variará en gran medida, dependiendo del tipo de suelo. Suelos frágiles de baja plasticidad se enrollan mejor bajo el lado exterior de la palma de la mano o la base exterior del pulgar. 
+4. PROCEDIMIENTO & 4.2.2 Procedimiento Alternativo: Método con aparato de enrollamiento – Se coloca la masa de suelo en la bandeja inferior. Se coloca la bandeja superior en contacto con la masa de suelo. Simultáneamente , se aplica una ligera presión hacia abajo y se mueve la bandeja superior hacia atrás y hacia adelante de manera que quede en contacto con los rieles laterales, durante dos minutos. En el transcurso de este proceso de enrollamiento, no se debe permitir que el suelo toque los rieles laterales. 
+4. PROCEDIMIENTO & Nota 2.- En la mayoría de los casos, se puede enrollar simultáneamente más de una masa de suelo en el aparato. 
+4. PROCEDIMIENTO & 4.3 Cuando el diámetro del rollo llegue a 3 mm, se divide en seis u ocho trozos. Se juntan los trozos y se aprietan entre los pulgares y dedos de ambas manos formando una masa uniforme de forma elipsoidal y se enrolla de nuevo. Se repite este procedimiento, partiendo, juntando, amasando y enrollando hasta que el rollo de 3 mm de diámetro se desmorone bajo la presión requerida para el enrollamiento y el suelo no pueda ser rotado para formar el rollo. 
+4. PROCEDIMIENTO & El desmoronamiento puede ocurrir cuando el rollo tenga un diámetro mayor de 3 mm. Esto puede considerarse un punto final satisfactorio, siempre y cuando el suelo haya sido previamente enrollado en un rollo de 3mm de diámetro. El desmoronamiento se manifestará de manera diferente con distintos tipos de suelos. Algunos suelos se desbaratan en numerosas agregaciones pequeñas de partículas; otros pueden formar una capa tubular que comienza partiéndose en ambos extremos. El resquebrajamiento continúa hacia el centro y finalmente el suelo se desbarata en muchas y pequeñas partículas lajosas. Suelos muy arcillosos requieren mayor presión para formar el rollo, especialmente cuando se aproximan al límite plástico, partiéndose finalmente en una serie de segmentos en forma de barriles, cada uno de aproximadamente 6 a 9 mm de longitud. 
+4. PROCEDIMIENTO & En ningún momento deberá el operador intentar producir el fallo exactamente a los 3 mm de diámetro, al permitir que el rollo alcance los 3 mm y reduciendo entonces la velocidad de enrollamiento o la presión manual, o ambos, y continuar el enrollamiento sin má s deformación hasta que el rollo se desbarate. Sin embargo, está permitido reducir la cantidad total de deformación en suelos plásticos débiles, formando el diámetro inicial de la masa de forma elipsoidal más cercano a los 3 mm requeridos de diámetro final. 
+4. PROCEDIMIENTO & 4.4 Se unen las porciones de suelo desmoronado y se colocan en un recipiente previamente pesado. Se tapa el recipiente inmediatamente. 
+4. PROCEDIMIENTO & 4.5 Se repiten las operaciones descritas en las Secciones 4.1, 4.2, 4.3 y 4.4 hasta que el espécimen de 8 g quede completamente ensayado. Se determina el contenido de humedad del suelo en los recipientes de acuerdo con la norma INV E – 122 y se anotan los resultados. 
+5. CÁLCULOS & Se calcula el Límite Plástico, expresado como el contenido de agua en porcentaje de la masa de suelo seca al horno, de la siguiente manera: 
+5. CÁLCULOS & Cálculo 01
+5. CÁLCULOS & Se registra el Limite Plástico, aproximado al número entero más cercano. 
+6. CÁLCULO DEL ÍNDICE DE PLASTICIDAD & Se puede definir el Índice de Plasticidad (IP) de un suelo como la diferencia entre su límite líquido y su límite plástico. 
+6. CÁLCULO DEL ÍNDICE DE PLASTICIDAD & Cálculo 02
+6. CÁLCULO DEL ÍNDICE DE PLASTICIDAD & Cuando el límite líquido o el límite plástico no se puedan determinar, el Índice de Plasticidad se informará con la abreviatura NP (No plástico). 
+6. CÁLCULO DEL ÍNDICE DE PLASTICIDAD & Así mismo, cuando el límite plástico resulte igual o mayor que el límite líquido, el índice de plasticidad se informará como NP (No plástico). 
+7. PRECISIÓN & 7.1 Este planteamiento de precisión se aplica a suelos con un límite plástico que oscila entre 15 y 32, en ensayos realizados utilizando el método de enrollamiento manual. 
+7. PRECISIÓN & 7.2 Repetibilidad (Un solo operador) – Dos resultados obtenidos por el mismo operador, en la misma muestra, en el mismo laboratorio, usando los mismos aparatos, se deben considerar cuestionables si se diferencian en más del 10% de su promedio. 
+7. PRECISIÓN & 7.3 Reproducibilidad (En múltiples laboratorios) – Dos resultados obtenidos por diferentes operadores, en diferentes laboratorios, deben considerarse cuestionables si ellos difieren entre sí en más de 18% de su promedio. 
+8. INFORME & El informe deberá incluir, al menos, los siguientes antecedentes: 
+8. INFORME & 8.1 Identificación del proyecto. 
+8. INFORME & 8.2 Procedencia de la muestra. 
+8. INFORME & 8.3 Fecha y lugar de muestreo. 
+8. INFORME & 8.4 Fecha de ensayo. 
+8. INFORME & 8.5 Valores del Límite Líquido, Límite Plástico e Índice de Plasticidad. 
+8. INFORME & 8.6 Cualquier información adicional respecto al ensayo o al suelo en estudio. 
+8. INFORME & 8.7 La referencia a este método. 
+9. NORMAS DE REFERENCIA & AASHTO T 90-00 (2004) ASTM D 4318-00 NORMA CHILENA 8102.4 
+9. NORMAS DE REFERENCIA & Figura 02
+9. NORMAS DE REFERENCIA & Modelo de formato para resultado 

@@ -1,0 +1,98 @@
+TITULO & DETERMINACIÓN DE LOS FACTORES DE CONTRACCIÓN DE LOS SUELOS 
+TITULO & I.N.V. E – 127 – 07 
+ENSAYO & Desarrollar laboratorio
+1. OBJETO & 1.1 Este método de ensayo tiene como propósito obtener datos por medio de los cuales se pueden calcular las siguientes constantes de los suelos: a) Límite de contracción, b) relación de contracción, c) cambio de volumen, d) contracción lineal. 
+1. OBJETO & 1.2 Lo siguiente se aplica a todos los límites especificados en esta norma: Con el propósito de determinar la conformidad con estas especificaciones, un valor observado o un valor calculado debe ser redondeado “a la unidad más cercana”. 
+1. OBJETO & 1.3 Los valores expresados en unidades SI deben considerarse como los normativos. 
+1. OBJETO & 1.4 Precaución – El mercurio es una sustancia peligrosa que puede causar efectos nocivos en la salud si su vapor se inhala por mucho tiempo, o si se pone en contacto con la piel. Siempre que se use mercurio deberán adoptarse las siguientes precauciones: 
+1. OBJETO & • Mantenerlo en un recipiente de cristal sellado e irrompible. 
+1. OBJETO & • Trabajar siempre en un área bien ventilada. 
+1. OBJETO & • Evitar el contacto directo con el mercurio y usar guantes. 
+1. OBJETO & • Evitar el esparcimiento incontrolado de partículas, efectuando la parte del ensayo que requiera uso de mercurio en un recipiente grande que pueda recoger lo que se derrame durante el ensayo 
+1. OBJETO & • Las partículas no controladas deben limpiarse de la mejor manera posible, empleando un procedimiento que resulte idóneo. 
+2. USO Y SIGNIFICADO & 2.1 Los factores de contracción cubiertos por este método de ensayo se pueden determinar únicamente en suelos básicamente finos (cohesivos), que presenten resistencia cuando se secan al aire. 
+2. USO Y SIGNIFICADO & 2.2 Se supone normalmente que el término límite de contracción en porcentaje , expresado como un contenido de agua, representa la cantidad de agua necesaria para llenar los vacíos de un suelo cohesivo dado, cua ndo se halle en su relación de vacíos más baja, obtenido ese valor por secado (generalmente en el horno). Así, el concepto del límite de contracción se puede emplear para evaluar el potencial de contracción, es decir, la posibilidad que se desarrollen grie tas en obras que incluyen suelos cohesivos. 
+3. EQUIPO & Vasijas de evaporación
+3. EQUIPO & 3.1 De porcelana, de 115 mm (4-l/2") y de 150 mm (6") de diámetro aproximadamente. 
+3. EQUIPO & Espátula
+3. EQUIPO & 3.2 De 76 mm (3") de longitud y 20 mm (3/4") de ancho. 
+3. EQUIPO & Recipiente para contracción
+3. EQUIPO & 3.3 De porcelana o de metal Monel (aleación de níquel y cobre) con una base plana y de 45 mm (1 3/4") de diámetro y 12.7 mm (1/2") de altura. 
+3. EQUIPO & Regla de metal
+3. EQUIPO & 3.4 de 100 mm (4") o más de longitud. 
+3. EQUIPO & Recipiente de vidrio
+3. EQUIPO & 3.5 de 50 mm (2") de diámetro y 25 mm (1") de altura, con bordes lisos y nivelados. 
+3. EQUIPO & Placa de vidrio
+3. EQUIPO & 3.6 Con tres patas metálicas salientes para sumergir la muestra de suelo en mercurio. 
+3. EQUIPO & Probeta
+3. EQUIPO & 3.7 Con capacidad de 25 ml y graduada cada 0.2 ml. 
+3. EQUIPO & Balanza
+3. EQUIPO & 3.8 Con sensibilidad de 0.1 g. 
+3. EQUIPO & Mercurio
+3. EQUIPO & 3.9 Suficiente para llenar el recipiente de vidrio, hasta que rebose. 
+3. EQUIPO & Horno
+3. EQUIPO & 3.10 termostáticamente controlado y que pueda conservar temperaturas constantes y uniformes hasta 110° ± 5° C (230° ± 9° F), para secar la muestra. 
+3. EQUIPO & Guantes de asbesto y de caucho
+3. EQUIPO & 3.11 Guantes de asbesto y de caucho
+4. MUESTRA & Se toma una muestra que pese aproximadamente 30 g, de una porción de material completamente mezclado, que pase el tamiz de 0.425 mm (No.40), de acuerdo con los métodos descritos en la norma INV E – 106 o en la norma INV E – 107. 
+5. PROCEDIMIENTO & 5.1 La muestra se coloca en la vasija de evaporación de 115 mm de diámetro (4 ½") y se mezcla completamente con agua destilada suficiente para llenar completamente los vacíos del suelo y para hacerla lo suficientemente pastosa, de manera que sea fácilmente manejable en la cápsula, evitando la formación de burbujas de aire. Para suelos friables, la cantidad de agua requerida para llegar a la consistencia deseada es igual o ligeramente mayor que el límite líquido; y para suelos plásticos, la cantidad de agua puede exceder en un 10% el límite líquido. 
+5. PROCEDIMIENTO & 5.2 El interior del recipiente para contracción se reviste con una capa delgada de vaselina o cualquier grasa pesada, para evitar la adhesión del suelo al recipiente. 
+5. PROCEDIMIENTO & 5.3 Se coloca una cantidad de suelo húmedo igual o cercana a la tercera parte del volumen del recipiente de contracción en el centro de éste y se fuerza para que fluya hacia los bordes golpeándolo suavemente sobre una superficie firme y acolchonada por varias hojas de papel secante o un material similar. A continuación, se agrega una cantidad de suelo aproximadame nte igual a la primera porción y se golpea el recipiente hasta que el suelo esté completamente compactado y todo el aire incluido haya sido expulsado. Se agrega más suelo y se continúan los golpes del recipiente hasta que éste se llene completamente y rebose por los lados. El exceso de suelo se quita con la regla metálica y el suelo adherido a la superficie externa del recipiente deberá ser limpiado. 
+5. PROCEDIMIENTO & 5.4 Cuando se haya llenado el recipiente, se enrasa, se limpia, y se pesa inmediatamente, se anota como masa del recipiente y del suelo húmedo (W1). La masa de suelo se deja secar en el aire, a temperatura ambiente, hasta que el color de la misma cambie de oscuro a claro. Luego, ésta será secada en el horno a temperatura de 110° ± 5° C (230° ± 9° F), hasta alcanzar masa constante; se pesará anotándose como masa del recipiente y del suelo seco (W2). 
+5. PROCEDIMIENTO & Muestras que contengan materia orgánica o cuya constitución pueda alterarse a la temperatura especificada, se secarán a 60° C (140° F). 
+5. PROCEDIMIENTO & 5.5 La capacidad del recipiente de contracción, en cm³, la cual es también el volumen de la masa de suelo húmedo, se determinará llenando el recipiente con mercurio hasta rebosar eliminando el exceso, haciendo presión con la placa de vidrio sobre la parte superior del recipiente, y midiendo el volumen de mercurio retenido en éste, con la probeta graduada. Se anotará como volumen de la masa de suelo húmedo (V). 
+5. PROCEDIMIENTO & Alternativamente, el volumen del recipiente se puede determinar pesando el mercurio retenido en el recipiente con aproximación a 0.1 g y se calcula el volumen en cm³ empleando la fórmula V = M / D , donde M es la masa de mercurio desplazada, en gramos, y D = 13.5 g/cm³ (densidad del mercurio). Este volumen debe registrarse como el volumen de la pastilla de suelo húmedo, V. 
+5. PROCEDIMIENTO & 5.6 El volumen de la masa de suelo seco se determina de la siguiente manera: 
+5. PROCEDIMIENTO & 5.6.1 El recipiente de vidrio se llena de mercurio hasta rebosar y el exceso de mercurio deberá removerse presionando firmemente la placa de vidrio con tres salientes sobre la parte superior del recipiente. 
+5. PROCEDIMIENTO & 5.6.2 Cualquier porción de mercurio que se derrame, la cual puede quedar adherida a la parte externa del recipiente se deberá limpiar cuidadosamente. El recipiente lleno de mercurio se coloca en la vasija de evaporación de 150 mm (6") y la pastilla de suelo seco se coloca sobre la superficie del mercurio. Esta será forzada cuidadosamente para sumergirla en el mercurio por medio de la placa de vidrio con las tres salientes (Figura 1), presionándola firmemente sobre el recipiente. 
+5. PROCEDIMIENTO & 5.6.3 Es esencial que no quede aire atrapado bajo la probeta de suelo. El volumen de mercurio que sea desplazado se mide en la probeta graduada y se anota como el volumen de suelo seco (Vo) o, alternativamente, determinando la masa de mercurio con aproximación a 0.1 g y calculando el volumen en cm³ , usando la fórmula V = M / D , donde M es la masa de mercurio desplazada, en gramos, y D = 13.5 g/cm³ (densidad del mercurio). 
+5. PROCEDIMIENTO & Figura 01
+5. PROCEDIMIENTO & Aparato para determinar la contracción volumétrica 
+5. PROCEDIMIENTO & 5.7 Después de ser limpiado, se pesa el recipiente de contracción y se anotará su masa (W3). 
+6. CÁLCULO DEL CONTENIDO DE AGUA & 6.1 El contenido de agua del suelo en el momento en que éste fue colocado en el recipiente, expresado como un porcentaje del peso seco del suelo, se calculará de la siguiente forma: 
+6. CÁLCULO DEL CONTENIDO DE AGUA & Cálculo 01
+6. CÁLCULO DEL CONTENIDO DE AGUA & donde: 
+6. CÁLCULO DEL CONTENIDO DE AGUA & W = contenido de agua del suelo (%), 
+6. CÁLCULO DEL CONTENIDO DE AGUA & W1= masa de suelo húmedo y el recipiente (g), 
+6. CÁLCULO DEL CONTENIDO DE AGUA & W2 = masa de suelo seco y el recipiente (g), y 
+6. CÁLCULO DEL CONTENIDO DE AGUA & W3 = masa del recipiente (g). 
+6. CÁLCULO DEL CONTENIDO DE AGUA & 6.2 El contenido de agua se debe calcular con una aproximación de 0.1% . 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & 7.1 El límite de contracción de un suelo se define como el contenido máximo de agua, por debajo del cual una reducción de la cantidad de agua, no causa una disminución de volumen de la muestra de suelo, pero al cual un aumento en el contenido de agua sí produce un aumento en el volumen de la masa de suelo. 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & 7.2 El límite de contracción (LC) se calcula de los datos obtenidos en la determinación de la contracción volumétrica, así: 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & Cálculo 02
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & Cálculo 03
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & donde: 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & LC = límite de contracción (%), 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & w = contenido de agua (%), 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & V = volumen de la pastilla de suelo húmedo (cm³), 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & Vo = volumen de la pastilla de suelo secada al horno (cm³), 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & Wo = masa de la pastilla de suelo seco (Wo = W2-W3) (g), y 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & γw= masa unitaria del agua (g/cm³) (aproximadamente 1.0 g/cm³. 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & El límite de contracción se debe calcular con una aproximación de 0.1%. 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & 7.3 Método opcional – Cuando se conocen el peso específico real de los sólidos, Gs, y la relación de contracción, R, el límite de contracción se puede calcular con la siguiente fórmula: 
+7. CÁLCULO DEL LÍMITE DE CONTRACCIÓN & Cálculo 04
+8. CÁLCULO DE LA RELACIÓN DE CONTRACCIÓN & 8.1 La relación de contracción de un suelo es la relación entre un cambio de volumen dado, expresado como porcentaje del volumen seco, y el cambio correspondiente en su contenido de agua por encima del Límite de Contracción, expresado como un porcentaje del peso seco al horno. 
+8. CÁLCULO DE LA RELACIÓN DE CONTRACCIÓN & 8.2 La relación de contracción, R, se calcula de los datos obtenidos en la determinación de la contracción volumétrica por medio de la siguiente fórmula: 
+8. CÁLCULO DE LA RELACIÓN DE CONTRACCIÓN & Cálculo 05
+8. CÁLCULO DE LA RELACIÓN DE CONTRACCIÓN & El significado de cada término es igual al que tienen en la Sección 7.2. La relación de contracción se calculará con aproximación de 0. 1. 
+9. CÁLCULO DEL CAMBIO VOLUMÉTRICO & 9.1 El cambio volumétrico de un suelo es la disminución de volumen de la masa de suelo, cuando se reduce el contenido de agua, desde un porcentaje dado hasta el límite de contracción. 
+9. CÁLCULO DEL CAMBIO VOLUMÉTRICO & 9.2 El cambio volumétrico, CV, se calcula a partir de los datos obtenidos en la determinación de la contracción volumétrica , por medio de la siguiente fórmula: 
+9. CÁLCULO DEL CAMBIO VOLUMÉTRICO & Cálculo 06
+9. CÁLCULO DEL CAMBIO VOLUMÉTRICO & donde: 
+9. CÁLCULO DEL CAMBIO VOLUMÉTRICO & Wi = contenido de agua dado, superior al límite de contracción El cambio volumétrico se debe calcular con una aproximación de 0.1% 
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & 10.1 La contracción lineal de un suelo, es la disminución, en una sola dimensión, de la muestra de suelo, expresada como un porcentaje de la dimensión original, cuando el contenido de humedad se reduce desde un porcentaje dado hasta el límite de contracción. 
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & 10.2 La contracción lineal, CL, se obtiene por medio de la siguiente fórmula: 
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & Cálculo 07
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & ó por medio de la Figura 2, la cual representa esta relación. 
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & La contracción lineal se debe determinar con una aproximación al entero más cercano (en porcentaje). 
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & Figura 02
+10. CÁLCULO DE LA CONTRACCIÓN LINEAL & Curva para determinar la contracción lineal 
+11. PRECISIÓN & 11.1 Los criterios para juzgar los valores de contracción de los suelos, son los siguientes: 
+11. PRECISIÓN & 11.2.1 Precisión de un solo operador 
+11. PRECISIÓN & Tabla 01
+11. PRECISIÓN & Precisión de un solo operador 
+11. PRECISIÓN & Nota 1.-las cifras de la columna 2, son las desviaciones normales que han sido encontradas apropiadas para las pruebas descritas en la columna 1. Las cifras en la columna 3 son los límites que no deben ser excedidos por la diferencia entre dos resultados de dos pruebas hechas apropiadamente. 
+11. PRECISIÓN & 11.2.2 Precisión multilaboratorios 
+11. PRECISIÓN & Tabla 02
+11. PRECISIÓN & Precisión multilaboratorios 
+12. NORMAS DE REFERENCIA & AASHTO T 92 – 97 (2001) ASTM D 427 – 98 

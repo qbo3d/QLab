@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondob02"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_tipo_objeto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="15dp"
+        android:text="@string/texto"
+        android:textColor="@color/azul_0"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tv_tipo_super"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/texto"
+        android:textColor="@color/azul_1"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:drawSelectorOnTop="false" >
+    </ListView>
+
+</LinearLayout>

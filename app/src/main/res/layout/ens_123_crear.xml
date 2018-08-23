@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow01" >
+
+    <LinearLayout
+        android:id="@+id/ll_m123_cre"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_m123_titulo_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/m123"
+            android:textColor="@color/azul_0"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m123_super_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/texto"
+            android:textColor="@color/azul_1"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_m123_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/m123_crear_perforacion" />
+
+        <Button
+            android:id="@+id/bt_m123_crear_perforacion_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/per_add" />
+
+        <TextView
+            android:id="@+id/tv_m123_perforacion_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/m123_perforacion" />
+
+        <Spinner
+            android:id="@+id/sp_m123_perforacion_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_m123_crear_muestra_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/m123_crear_muestra" />
+
+        <Button
+            android:id="@+id/bt_m123_crear_muestra_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_mue_add" />
+    </LinearLayout>
+
+</ScrollView>

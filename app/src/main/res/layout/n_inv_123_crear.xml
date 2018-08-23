@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow01" >
+
+    <LinearLayout
+        android:id="@+id/ll_m123_cre"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_m123_titulo_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/n_123_cre"
+            android:textColor="@color/azul_0"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_m123_super_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/texto"
+            android:textColor="@color/azul_1"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_m123_numero_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_numero" />
+
+        <EditText
+            android:id="@+id/et_m123_numero_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_m123_t2p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_t2p" />
+
+        <EditText
+            android:id="@+id/et_m123_t2p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_t1e1s2p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_t1e1s2p" />
+
+        <EditText
+            android:id="@+id/et_m123_t1e1s2p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_t1p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_t1p" />
+
+        <EditText
+            android:id="@+id/et_m123_t1p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_t1s2p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_t1s2p" />
+
+        <EditText
+            android:id="@+id/et_m123_t1s2p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_t3s8p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_t3s8p" />
+
+        <EditText
+            android:id="@+id/et_m123_t3s8p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_tn4p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_tn4p" />
+
+        <EditText
+            android:id="@+id/et_m123_tn4p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_tn10p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_tn10p" />
+
+        <EditText
+            android:id="@+id/et_m123_tn10p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_tn40p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_tn40p" />
+
+        <EditText
+            android:id="@+id/et_m123_tn40p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_tn200p_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_tn200p" />
+
+        <EditText
+            android:id="@+id/et_m123_tn200p_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_tfondo_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_tfondo" />
+
+        <EditText
+            android:id="@+id/et_m123_tfondo_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_d60_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_d60" />
+
+        <EditText
+            android:id="@+id/et_m123_d60_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_d30_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_d30" />
+
+        <EditText
+            android:id="@+id/et_m123_d30_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_d10_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_d10" />
+
+        <EditText
+            android:id="@+id/et_m123_d10_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/tv_m123_ll_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_ll" />
+
+        <EditText
+            android:id="@+id/et_m123_ll_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_m123_lp_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_lp" />
+
+        <EditText
+            android:id="@+id/et_m123_lp_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_m123_ip_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_ip" />
+
+        <EditText
+            android:id="@+id/et_m123_ip_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_m123_aashto_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_aashto" />
+
+        <EditText
+            android:id="@+id/et_m123_aashto_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_m123_usc_cre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m123_usc" />
+
+        <EditText
+            android:id="@+id/et_m123_usc_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/bt_m123_crear"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pue_crear" />
+    </LinearLayout>
+
+</ScrollView>

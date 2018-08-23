@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow03" >
+
+    <LinearLayout
+        android:id="@+id/ll_cap_consultar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_cap_titulo_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/cap_con"
+            android:textColor="@color/azul_0"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_cap_super_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/texto"
+            android:textColor="@color/azul_1"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_cap_imagen_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cap_imagen" />
+
+        <ImageView
+            android:id="@+id/iv_cap_imagen_con"
+            android:layout_width="320dp"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:contentDescription="@+id/image"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/tv_cap_nota_con"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cap_nota" />
+
+        <TextView
+            android:id="@+id/et_cap_nota_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+    </LinearLayout>
+
+</ScrollView>

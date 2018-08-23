@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondob01" >
+
+    <LinearLayout
+        android:id="@+id/ll_herr_captura"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_per_titulo_cre"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/capturar"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <ImageButton
+            android:id="@+id/image"
+            android:layout_width="320dp"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:contentDescription="@+id/image"
+            android:scaleType="centerInside" />
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/guardar" />
+    </LinearLayout>
+
+</ScrollView>

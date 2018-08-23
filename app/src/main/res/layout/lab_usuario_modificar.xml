@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow02" >
+
+    <LinearLayout
+        android:id="@+id/ll_usuario_mod"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_usu_titulo_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/usu_mod"
+            android:textColor="@color/azul_1"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_cedula_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_cedula" />
+
+        <TextView
+            android:id="@+id/tv_usu_id_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/tv_usu_nombre_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_nombre" />
+
+        <EditText
+            android:id="@+id/et_usu_nombre_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_usu_apellido_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_apellido" />
+
+        <EditText
+            android:id="@+id/et_usu_apellido_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_usu_foto_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_foto" />
+
+        <ImageButton
+            android:id="@+id/bt_usu_foto_mod"
+            android:layout_width="320dp"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/usu_mod"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/tv_usu_codigo_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_codigo" />
+
+        <EditText
+            android:id="@+id/et_usu_codigo_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_usu_fechanacimiento_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_fechanacimiento" />
+
+        <DatePicker
+            android:id="@+id/dp_usu_fechanacimiento_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_usu_email_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_email" />
+
+        <EditText
+            android:id="@+id/et_usu_email_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress" />
+
+        <TextView
+            android:id="@+id/tv_usu_cel_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_cel" />
+
+        <EditText
+            android:id="@+id/et_usu_cel_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="phone" />
+
+        <TextView
+            android:id="@+id/tv_usu_tipo_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usu_tipo" />
+
+        <TextView
+            android:id="@+id/tv_usu_tipo_pos_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/texto"
+            android:textSize="21sp" />
+
+        <Spinner
+            android:id="@+id/sp_usu_tipo_mod"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/bt_usu_modificar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pue_modificar" />
+    </LinearLayout>
+
+</ScrollView>

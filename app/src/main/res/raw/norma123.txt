@@ -1,0 +1,96 @@
+TITULO & ANÁLISIS GRANULOMÉTRICO DE SUELOS POR TAMIZADO
+TITULO & I.N.V. E – 123 –07
+ENSAYO & Desarrollar laboratorio
+1. OBJETO & 1.1 El análisis granulométrico tiene por objeto la determinación cuantitativa de la distribución de tamaños de partículas de suelo. 
+1. OBJETO & 1.2 Esta norma describe el método para determinar los porcentajes de suelo que pasan por los distintos tamices de la serie empleada en el ensayo, hasta el de 75 µm (No.200). 
+2. EQUIPO & Dos balanzas
+2. EQUIPO & 2.1 Una con sensibilidad de 0.01 g para pesar material que pase el tamiz de 2 mm (No.10). Otra con sensibilidad 0.1 % del peso de la muestra, para pesar los materiales retenidos en el tamiz de 2 mm (No.10).
+2. EQUIPO & 2.2 Tamices de malla cuadrada: 
+2. EQUIPO & Tamiz de malla cuadrada de 75 mm (3")
+2. EQUIPO & Tamiz de malla cuadrada de 50 mm (2")
+2. EQUIPO & Tamiz de malla cuadrada de 37.5 mm(1 1/2")
+2. EQUIPO & Tamiz de malla cuadrada de 25 mm (1")
+2. EQUIPO & Tamiz de malla cuadrada de 19.0 mm (3/4")
+2. EQUIPO & Tamiz de malla cuadrada de 9.5 mm (3/8")
+2. EQUIPO & Tamiz de malla cuadrada de 4.75 mm (No.4)
+2. EQUIPO & Tamiz de malla cuadrada de 2.00 mm (No.10)
+2. EQUIPO & Tamiz de malla cuadrada de 850 µm (No.20)
+2. EQUIPO & Tamiz de malla cuadrada de 425 µm (No.40)
+2. EQUIPO & Tamiz de malla cuadrada de 250 µm (No.60)
+2. EQUIPO & Tamiz de malla cuadrada de 106 µm (No.140)
+2. EQUIPO & Tamiz de malla cuadrada de 75 µm (No.200)
+2. EQUIPO & Se puede usar, como alternativa, una serie de tamices que, al dibujar la gradación, dé una separación uniforme entre los puntos del gráfico. Esta serie estará integrada por los siguientes : 
+2. EQUIPO & Tamiz de malla cuadrada de 75 mm (3")
+2. EQUIPO & Tamiz de malla cuadrada de 37.5 mm (1 1/2")
+2. EQUIPO & Tamiz de malla cuadrada de 19.0 mm (3/4")
+2. EQUIPO & Tamiz de malla cuadrada de 9.5 mm (3/8")
+2. EQUIPO & Tamiz de malla cuadrada de 4.75 mm (No.4)
+2. EQUIPO & Tamiz de malla cuadrada de 2.36 mm (No.8)
+2. EQUIPO & Tamiz de malla cuadrada de 1.10 mm (No.16)
+2. EQUIPO & Tamiz de malla cuadrada de 600 µm (No.30)
+2. EQUIPO & Tamiz de malla cuadrada de 300 µm (No.50)
+2. EQUIPO & Tamiz de malla cuadrada de 150 µm (No.100)
+2. EQUIPO & Tamiz de malla cuadrada de 75 µm (No.200)
+2. EQUIPO & Horno
+2. EQUIPO & 2.3 Capaz de mantener temperaturas uniformes y constantes hasta de 110 ± 5 °C (230 ± 9 °F). 
+2. EQUIPO & Envases
+2. EQUIPO & 2.4 Adecuados para el manejo y secado de las muestras. 
+2. EQUIPO & Cepillo y brocha
+2. EQUIPO & 2.5 Para limpiar las mallas de los tamices. 
+3. MUESTRA & 3.1 Según sean las características de los materiales finos de la muestra, el análisis con tamices se hace, bien con la muestra entera, o bien con parte de ella después de separar los finos por lavado. Si la necesidad del lavado no se puede determinar por examen visual, se seca en el horno una pequeña porción húmeda del material y luego se examina su resistencia en seco rompiéndola entre los dedos. Si se puede romper fácilmente y el material fino se pulveriza bajo la presión de aquellos, entonces el análisis con tamices se puede efectuar sin previo lavado. 
+3. MUESTRA & 3.2 Se prepara una muestra para el ensayo como se describe en la norma INV E – 106, la cual estará constituida por dos fracciones: Una retenida sobre el tamiz de 2 mm (No.10) y otra que pasa dicho tamiz. Ambas fracciones se ensayarán por separado. 
+3. MUESTRA & 3.3 La masa del suelo secado al aire y seleccionado para el ensayo, como se indica en la norma INV E – 106, será suficiente para las cantidades requeridas para el análisis mecánico, como sigue: 
+3. MUESTRA & 3.3.1 Para la porción de muestra retenida en el tamiz de 2 mm (No.10) la masa dependerá del tamaño máximo de las partículas de acuerdo con la Tabla 1. 
+3. MUESTRA & Tabla 01
+3. MUESTRA & Dosificaciones
+3. MUESTRA & 3.3.2 El tamaño de la porción que pasa tamiz de 2 mm (No.10) será aproximadamente de 115 g, para suelos arenosos, y de 65 g para suelos arcillosos y limosos. 
+3. MUESTRA & 3.4 En la norma INV E – 106, se dan indicaciones para la pesada del suelo secado al aire y seleccionado para el ensayo, así como para la separación del suelo sobre el tamiz de 2 mm (No.10) por medio del tamizado en seco, y para el lavado y pesado de las fracciones lavadas y secadas retenidas en dicho tamiz. De estas dos masas, los porcentajes retenido y que pasa el tamiz de 2 mm (No.10), pueden calcularse de acuerdo con la Sección 6.1. 
+3. MUESTRA & Se puede tener una comprobación de los pesos, así como de la completa pulverización de los terrones, pesando la porción de muestra que pasa el tamiz de 2 mm (No.10) y agregándole este valor al peso de la porción de muestra lavada y secada en el horno, retenida en el tamiz de 2 mm (No.10). 
+4. ANÁLISIS POR MEDIO DE TAMIZADO DE LA FRACCIÒN RETENIDA EN EL TAMIZ DE 2.00 mm (No.10) & 4.1 Se separa la porción de muestra retenida en el tamiz de 2 mm (No.10) en una serie de fracciones usando los tamices de: 75 mm (3"), 50 mm (2"), 37.5 mm (1 ½"), 25.0 mm (1"), 19.0 mm (3/4"), 9.5 mm (3/8"), 4.75 mm (No.4) y 2.00 mm (No.10), o los que sean necesarios, dependiendo del tipo de muestra o de las especificaciones para el material que se ensaya. 
+4. ANÁLISIS POR MEDIO DE TAMIZADO DE LA FRACCIÒN RETENIDA EN EL TAMIZ DE 2.00 mm (No.10) & 4.2 En la operación de tamizado manual se sacude(n) el tamiz o tamices con un movimiento lateral y vertical acompañado de vibración y recorriendo circunferencias de forma que la muestra se mantenga en movimiento continuo sobre la malla. En ningún caso se permite girar o manipular manualmente fragmentos de la muestra a través de un tamiz. Al desmontar los tamices debe comprobarse que la operación está terminada; esto se sabe cuando no pasa más del 1 % de la parte retenida al tamizar durante un minuto, operando cada tamiz individualmente. Si quedan partículas atrapadas en la malla, deben separarse con un pincel o cepillo y reunirlas con lo retenido en el tamiz. 
+4. ANÁLISIS POR MEDIO DE TAMIZADO DE LA FRACCIÒN RETENIDA EN EL TAMIZ DE 2.00 mm (No.10) & Cuando se utilice una tamizadora mecánica, se pondrá a funcionar por diez minutos aproximadamente. El resultado se puede verificar usando el método manual. 
+4. ANÁLISIS POR MEDIO DE TAMIZADO DE LA FRACCIÒN RETENIDA EN EL TAMIZ DE 2.00 mm (No.10) & 4.3 Se determina la masa de cada fracción en una balanza con una sensibilidad de 0.1 %. La suma de las masas de todas las fracciones y la masa inicial de la muestra no debe diferir en más de 1 % 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1 El análisis granulométrico de la fracción que pasa el tamiz de 2mm (No.10) se hará por tamizado y/o sedimentación según las características de la muestra y según la información requerida. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1.1 Los materiales arenosos que contengan muy poco limo y arcilla, cuyos terrones en estado seco se desintegren con facilidad, se podrán tamizar en seco.
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1.2 Los materiales limo arcillosos, cuyos terrones en estado seco no rompan con facilidad, se procesarán por la vía húmeda. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1.3 Si se requiere la curva granulométrica completa incluyendo la fracción de tamaño menor que el tamiz de 75 µm (No.200), la gradación de ésta se determinará por sedimentación, utilizando el hidrómetro para obtener los datos necesarios. Ver norma de ensayo INV E – 124. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1.4 Se puede n utilizar procedimientos simplificados para la determinación del contenido de partículas menores de un cierto tamaño, según se requiera. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.1.5 La fracción de tamaño mayor que el tamiz de 75 µm (No.200) se analizará por tamizado en seco, lavando la muestra previamente sobre el tamiz de 75 µm (No.200) 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2 Procedimiento para el análisis granulométrico por lavado sobre el tamiz de 75 µm (No.200). 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.1 Se separan, mediante cuarteo, 115 g para suelos arenosos y 65 g para suelos arcillosos y limosos, pesándolos con exactitud de 0.01 g. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.2 Humedad higroscópica. -Se pesa una porción de 10 a 15 g de los cuarteos anteriores y se seca en el horno a una temperatura de 110 ± 5°C (230 + 9°F). Se pesan de nuevo y se anotan los pesos. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5 ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.3 Se coloca la muestra en un recipiente apropiado, cubriéndola con agua y se deja en remojo, hasta que todos los terrones se ablanden. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.4 Se lava a continuación la muestra sobre el tamiz de 75 µm (No.200) con abundante agua , evitando frotarla contra el tamiz y teniendo mucho cuidado de que no se pierda ninguna partícula de las retenidas en él. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.5 Se recoge lo retenido en un recipiente, se seca en el horno a una temperatura de 110 ± 5 °C (230 ± 9 °F) y se pesa. 
+5. ANÁLISIS GRANULOMÉTRICO DE LA FRACCIÓN QUE PASA EL TAMIZ DE 2 mm (No. 10) & 5.2.6 Se tamiza en seco siguiendo el procedimiento indicado en las Secciones 4.2 y 4.3 
+6. CÁLCULOS & 6.1 Valores de análisis de tamizado para la porción retenida en el tamiz de 2 mm (No.10). 
+6. CÁLCULOS & 6.1.1 Se calcula el porcentaje que pasa el tamiz de 2 mm (No.10) dividiendo la masa que pasa dicho tamiz por la del suelo originalmente tomado y se multiplica el resultado por 100. Para obtener la masa de la porción retenida en el mismo tamiz, se resta de la masa original la masa del pasante por el tamiz de 2 mm (No.10). 
+6. CÁLCULOS & 6.1.2 Para comprobar la masa tota l de suelo que pasa el tamiz de 4.75 mm (No.4), se agrega a la masa del material que pasa el tamiz de 2 mm (No.10), la masa de la fracción que pasa el tamiz de 4.75 mm (No.4) y que queda retenida en el de 2 mm (No.10). Para comprobar el material que pasa por el tamiz de 9.5 mm (3/8"), se agrega a la masa total del suelo que pasa por el tamiz de 4.75 mm (No.4) la masa de la fracción que pasa el tamiz de 9.5 mm (3/8") y que queda retenida en el de 4.75 mm (No.4). Para los demás tamices , se continúa el cálculo de la misma manera. 
+6. CÁLCULOS & 6.1.3 Para determinar el porcentaje total que pasa por cada tamiz, se divide la masa total que pasa (sección 6.1.2) por la masa total de la muestra y se multiplica el resultado por 100.
+6. CÁLCULOS & 6.2 Valores del análisis por tamizado para la porción que pasa el tamiz de 2 mm (No.10). 
+6. CÁLCULOS & Se calcula el porcentaje de material que pasa por el tamiz de 75 µm (No.200) de la siguiente forma: 
+6. CÁLCULOS & Cálculo 01
+6. CÁLCULOS & Se calcula el porcentaje retenido sobre cada tamiz de la siguiente forma: 
+6. CÁLCULOS & Cálculo 02
+6. CÁLCULOS & Se calcula el porcentaje más fino, restando en forma acumulativa de 100% los porcentajes retenidos sobre cada tamiz. 
+6. CÁLCULOS & Cálculo 03
+6. CÁLCULOS & 6.3 Porcentaje de humedad higroscópica – La humedad higroscópica se considera como la pérdida de masa de una muestra secada al aire cuando se seca posteriormente al horno, expresada como un porcentaje de la masa de la muestra secada al horno. Se determina de la manera siguiente. 
+6. CÁLCULOS & Cálculo 04
+6. CÁLCULOS & donde: 
+6. CÁLCULOS & W = masa del suelo seco al aire, y 
+6. CÁLCULOS & W1 = masa del suelo seco en el horno 
+7. OBSERVACIONES & 7.1 El informe deberá incluir lo siguiente: 
+7. OBSERVACIONES & 7.1.1 El tamaño máximo de las partículas contenidas en la muestra. 
+7. OBSERVACIONES & 7.1.2 Los porcentajes retenidos y/o que pasan, para cada uno de los tamices utilizados. 
+7. OBSERVACIONES & 7.1.3 Toda información adicional que se juzgue de interés. 
+7. OBSERVACIONES & Los resultados se presentarán: (1) en forma tabulada, o (2) en forma gráfica; siendo esta última forma, la indicada cada vez que el análisis comprenda un ensayo completo de sedimentación. 
+7. OBSERVACIONES & Las pequeñas diferencias resultantes en el empate de las curvas obtenidas por tamizado y por sedimentación, respectivamente, se corregirán en forma gráfica.
+7. OBSERVACIONES & 7.2 Los siguientes errores posibles producirán determinaciones imprecisas en un análisis granulométrico por tamizado. 
+7. OBSERVACIONES & 7.2.1 Aglomeraciones de partículas que no han sido completamente disgregadas. Si el material contiene partículas finas plásticas, la muestra debe ser disgregada antes del tamizado. 
+7. OBSERVACIONES & 7.2.2 Tamices sobrecargados. Este es el error más común y más serio asociado con el análisis por tamizado y tenderá a indicar que el material ensayado es más grueso de lo que es en realidad. Para evitar esto, las muestras muy grandes deben ser tamizadas en varias porciones y las porciones retenidas en cada tamiz se juntarán luego para realizar la pesada. 
+7. OBSERVACIONES & 7.2.3 Los tamices han sido agitados por un periodo demasiado corto o con movimientos horizontales o rotacionales inadecuados. Los tamices deben agitarse de manera que las partículas sean expuestas a las aberturas del tamiz con varias orientaciones y así tengan mayor oportunidad de pasar a través de él. 
+7. OBSERVACIONES & 7.2.4 La malla de los tamices está rota o deformada; los tamices deben ser frecuentemente inspeccionados para asegurar que no tienen aberturas más grandes que la especificada. 
+7. OBSERVACIONES & 7.2.5 Pérdidas de material al sacar el retenido de cada tamiz. 
+7. OBSERVACIONES & 7.2.6 Errores en las pesadas y en los cálculos. 
+8. NORMAS DE REFERENCIA & ASTM D 422-63 (Reaprobada 1998) 
+8. NORMAS DE REFERENCIA & AASHTO T 88 00 (2004)

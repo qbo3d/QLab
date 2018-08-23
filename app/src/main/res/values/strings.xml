@@ -1,0 +1,349 @@
+<resources>
+    
+    <!-- Strings -->
+
+    <string name="app_name">UD Lab</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">UD Lab</string>
+    <string name="norma_activity">Ir a layout de normas</string>
+    <string name="calculo_activity">Ir a layout de calculos</string>
+    <string name="ayuda_activity">Ayudaaaaa</string>
+    <string name="enigma">sin calcular</string>
+    <string name="texto">texto</string>
+    
+    <!-- Tab Menu -->
+    
+    <string name="lista_pro">Actualizar listado de proyectos</string>
+    <string name="des_config">En esta pestaña tienes la posibilidad de crea, modifica, consulta o borra los datos personales del usuario que estará a cargo de cada ensayo y los proyectos almacenados en este dispositivo.</string>
+    <string name="des_pro">Listado de proyectos: con éste podrás desarrollar prácticas en el laboratorio.</string>
+    <string name="a00">Pestaña Proyectos</string>
+    <string name="a01">Lista de Normas</string>
+    <string name="a02">Visor de normas</string>
+    <string name="a03">Herramientas de Visualización</string>
+    <string name="a04">Pestaña Configuración</string>
+    <string name="a05">Crear</string>
+    <string name="a06">Modificar</string>
+    <string name="a07">Consultar</string>
+    <string name="a08">Eliminar</string>
+    <string name="a09">Ingresar Anotación</string>
+    <string name="a10">Ingresar Imagen</string>
+    <string name="a11">Generar Informe</string>
+    <string name="a_t_00">Aquí encontrará un listado de todos los proyectos que se han desarrollado con la aplicación.</string>
+    <string name="a_t_01">Por medio de esta lista podrá conocer las características de cada norma que se puede usar como guía en el laboratorio, teniendo la opción de consultar su nombre completo y tener acceso al contenido de la misma.</string>
+    <string name="a_t_02">En este formulario permite visualizar de forma amable al usuario el contenido de la norma que escoja.</string>
+    <string name="a_t_03">El visor de normas contiene imágenes, formulas, equipos y tablas que el usuario podrá ver fácil y claramente.</string>
+    <string name="a_t_04">En esta pestaña tienes la posibilidad de crea, modifica, consulta o eliminar los datos personales del usuario que estará a cargo de cada ensayo y los proyectos que este vaya a desarrollar.</string>
+    <string name="a_t_05">Todos los formularios para CREAR le permiten al usuario crear perfiles, proyectos, ensayos, perforaciones, muestras y laboratorios.</string>
+    <string name="a_t_06">Todos los formularios para MODIFICAR le permiten al usuario modificar perfiles, proyectos, ensayos, perforaciones, muestras y laboratorios.</string>
+    <string name="a_t_07">Todos los formularios para CONSULTAR le permiten al usuario consultar perfiles, proyectos, ensayos, perforaciones, muestras y laboratorios.</string>
+    <string name="a_t_08">Es una opción en el menú contextual que le permiten al usuario eliminar perfiles, proyectos, ensayos, perforaciones, muestras y laboratorios.</string>
+    <string name="a_t_09">Es una opción en el menú contextual que le permite al usuario adicionar anotaciones a los laboratorios.</string>
+    <string name="a_t_10">Es una opción en el menú contextual que le permite al usuario adicionar imágenes a los laboratorios.</string>
+    <string name="a_t_11">Es un botón que le permite al usuario tomar todos los datos finales de cada laboratorios y generar un informe en formato PDF en la memoria externa del celular.</string>
+    <string name="Admon">Administrar</string>
+    <string name="cre01">Créditos</string>
+    <string name="cre02">APLICACIÓN MÓVIL PARA LA GESTIÓN DE LA INFORMACIÓN OBTENIDA EN LAS PRÁCTICAS DEL LABORATORIO DE SUELOS Y PAVIMENTOS DE LA FACULTAD TECNOLÓGICA DE LA UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS\n\nSERGIO ERNESTO MESA BERNAL\nCódigo: 20032079034\nRUTH KATHERINE FLORIDO LARA\nCódigo: 20061078037\n\nTutor:\nINGENIERO CARLOS VANEGAS\n\nCoordinador Laboratorio de Suelos:\nINGENIERO JORGE TORRENEGRA\n\nAsesor externo:\nINGENIERO WILSON ANDRÉS VÁSQUEZ ROMERO\n\nDependencia donde se desarrolla la pasantía:\nLABORATORIO DE SUELOS Y PAVIMENTOS\n\nJurados:\nINGENIERO HECTOR ARTURO FLOREZ\nINGENIERO GERARDO ALBERTO CASTANG\n\nProyecto presentado como requisito para optar el título de
+Tecnólogo en sistemas\n\nUNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS\nFACULTAD TECNOLÓGICA\nTECNOLOGIA EN SISTEMATIZACION DE DATOS\nBOGOTÁ\n2012</string>
+    
+    <!-- Menus -->
+    
+    <string name="menu_settings">Settings</string>
+    <string name="men_regresar">Regresar</string>
+    <string name="men_eliminar">Eliminar</string>
+    <string name="men_inicio">Ir a inicio</string>
+    <string name="men_anotacion">Anotar</string>
+    <string name="men_captura">Capturar</string>
+    
+    <!-- Colors -->
+
+    <color name="fondo_oscuro">#8E8E90</color>
+    <color name="color_azul">#4682B4</color>
+    <color name="negro">#000000</color>
+    <color name="blanco">#ffffff</color>
+    <color name="cafe_0">#EFD1B3</color>
+    <color name="cafe_1">#E8B380</color>
+    <color name="cafe_2">#E39243</color>
+    <color name="cafe_3">#C26408</color>
+    <color name="cafe_4">#663300</color>
+    <color name="azul_0">#102E4B</color>
+    <color name="azul_1">#174B7E</color>
+    <color name="azul_2">#1C6CBB</color>
+    <color name="azul_3">#3C9AF6</color>
+    <color name="azul_4">#98CBFE</color>
+
+    <!-- Puente -->
+
+    <string name="pue_crear">Crear</string>
+    <string name="pue_modificar">Modificar</string>
+    <string name="pue_consultar">Consultar / Eliminar</string>
+
+    <!-- Usuario -->
+
+    <string name="usu">Usuario</string>
+    <string name="usu_cre">Crear Usuario</string>
+    <string name="usu_mod">Modificar Usuario</string>
+    <string name="usu_con">Consultar Usuario</string>
+    <string name="usu_cedula">Cédula:</string>
+    <string name="usu_nombre">Nombres:</string>
+    <string name="usu_apellido">Apellidos:</string>
+    <string name="usu_codigo">Código:</string>
+    <string name="usu_fechanacimiento">Fecha de nacimiento:</string>
+    <string name="usu_foto">Foto:</string>
+    <string name="usu_email">Email:</string>
+    <string name="usu_cel">Número celular:</string>
+    <string name="usu_tipo">Tipo:</string>
+    <string name="usu_btnCapturar">Capturar Imagen</string>
+    
+    <!-- Capturar imagen -->
+
+    <string-array name="usu_tipo_item">
+        <item>Estudiante</item>
+        <item>Profesor</item>
+        <item>Administrativo</item>
+        <item>Otro</item>
+    </string-array>
+    
+    <string name="capturar">Capturar Imagen</string>
+    <string name="galeria">Buscar en Galería</string>
+    <string name="guardar">Guardar</string>
+    
+    <!-- Proyecto -->
+
+    <string name="pro">Proyecto</string>
+    <string name="pro_list">Listado de proyectos</string>
+    <string name="pro_cre">Crear Proyecto</string>
+    <string name="pro_mod">Modificar Proyecto</string>
+    <string name="pro_con">Consultar Proyecto</string>
+    <string name="pro_nombre">Nombre:</string>
+    <string name="pro_localizacion">Localización:</string>
+    <string name="pro_fecha">Fecha:</string>
+    <string name="pro_usu_cedula_fk">Encargado:</string>
+
+    <!-- Ensayo -->
+
+    <string name="ens">Ensayo</string>
+    <string name="ens_list">Listado de ensayos</string>
+    <string name="ens_cre">Crear Ensayo</string>
+    <string name="ens_mod">Modificar Ensayo</string>
+    <string name="ens_con">Consultar Ensayo</string>
+    <string name="ens_add">Crear ensayo</string>
+    <string name="ens_numero">Numero:</string>
+    <string name="ens_descripcionsuelo">Descripción del suelo:</string>
+    <string name="ens_norma">Norma:</string>
+    <string name="ens_fecha">Fecha:</string>
+
+    <!-- Perforacion -->
+
+    <string name="per">Perforación</string>
+    <string name="per_list">Listado de perforaciones</string>
+    <string name="per_cre">Crear Perforación</string>
+    <string name="per_mod">Modificar Perforación</string>
+    <string name="per_con">Consultar Perforación</string>
+    <string name="per_add">Crear perforación</string>
+    <string name="per_numero">Número:</string>
+    <string name="per_profundidad">Profundidad en metros:</string>
+    <string name="per_observacion">Observación:</string>
+
+    <!-- Muestra -->
+
+    <string name="mue">Muestra</string>
+    <string name="mue_con">Consultar muestras</string>
+    <string name="mue_hn_con">Consultar muestras para Humedad Natural</string>
+    <string name="mue_ll_con">Consultar muestras para Límite Líquido</string>
+    <string name="mue_lp_con">Consultar muestras para Línite Plástico</string>
+
+    <!-- Muestra 122 -->
+
+    <string name="m122">Determinación en laboratorio del contenido de agua (humedad) de suelo, roca y mezclas de suelo-agregado\nNorma INV E 122 07</string>
+    <string name="m122_list">Listado de muestras</string>
+    <string name="m122_mod">Modificar Muestra</string>
+    <string name="m122_con">Consultar Muestra</string>
+    <string name="m122_add">Crear muestra</string>
+    <string name="m122_crear_perforacion">Si no se ha creado previamente la perforación pulse aquí:</string>
+    <string name="m122_crear_muestra_grava">Para crear la muestra o las muestras de grava que harán parte del ensayo pulse aquí:</string>
+    <string name="m122_cant">Ingrese cantidad de muestras:</string>
+    <string name="m122_crear_muestra_arena">Para crear la muestra o las muestras de arena que harán parte del ensayo pulse aquí:</string>
+    <string name="m122_perforacion_grava">Elija una perforación para seleccionar las muestras de grava:</string>
+    <string name="m122_perforacion_arena">Elija una perforación para seleccionar las muestras de arena:</string>
+    <string name="m122_select_muestra_grava">Seleccionar muestras de grava</string>
+	<string name="m122_select_muestra_arena">Seleccionar muestra de arena</string>
+	<string name="m122_ini_ensayo">Generar informe</string>
+    <string name="m122_mue_add_grava">Crear muestra de grava</string>
+    <string name="m122_mue_add_arena">Crear muestra de arena</string>
+    <string name="m122_numero">Numero:</string>
+	<string name="m122_tipo">Tipo:</string>
+	<string name="m122_w">Contenido de agua (%)</string>
+	<string name="m122_w1">Masa del recipiente y del espécimen húmedo (g)</string>
+	<string name="m122_w2">Masa del recipiente y del espécimen seco (g)</string>
+	<string name="m122_wc">Masa del recipiente (g)</string>
+	<string name="m122_ww">Masa del agua (g)</string>
+	<string name="m122_ws">Masa de las partículas sólidas (g):</string>
+
+    <!-- Muestra 123 -->
+
+    <string name="m123">Análisis granulométrico de suelos por tamizado\nNorma INV E 123 07</string>
+   	<string name="m123_con">Consultar Muestra</string>
+    <string name="m123_crear_perforacion">Si no se ha creado previamente la perforación pulse aquí:</string>
+    <string name="m123_perforacion">Elija una perforación para seleccionar las muestras:</string>
+    <string name="m123_crear_muestra">Para crear la muestra o las muestras que harán parte del ensayo pulse aquí:</string>
+    <string name="m123_mue_add">Crear muestra</string>
+    <string name="m123_numero">Numero</string>
+    <string name="m123_t2p">Masa retenida en el tamiz de 50.8 mm (2 pul.)</string>
+    <string name="m123_t1e1s2p">Masa retenida en el tamiz de 37.5 mm (1 ½ pul.)</string>
+    <string name="m123_t1p">Masa retenida en el tamiz de 25.4 mm (1 pul.)</string>
+    <string name="m123_t1s2p">Masa retenida en el tamiz de 12.7 mm (½ pul.)</string>
+    <string name="m123_t3s8p">Masa retenida en el tamiz de 9.53 mm (⅜ pul.)</string>
+    <string name="m123_tn4p">Masa retenida en el tamiz de 4.75 mm (No.4)</string>
+    <string name="m123_tn10p">Masa retenida en el tamiz de 2.00 mm (No.10)</string>
+    <string name="m123_tn40p">Masa retenida en el tamiz de 425 μm (No.40)</string>
+    <string name="m123_tn200p">Masa retenida en el tamiz de 75 μm (No.200)</string>
+    <string name="m123_tfondo">Masa que quedó en el fondo</string>
+    <string name="m123_d60">D60</string>
+    <string name="m123_d30">D30</string>
+    <string name="m123_d10">D10</string>
+    <string name="m123_ll">% L. L.</string>
+    <string name="m123_lp">% L. P.</string>
+    <string name="m123_ip">% I. de P.</string>
+    <string name="m123_aashto">A.A.S.H.T.O.</string>
+    <string name="m123_usc">U.S.C.</string>
+    <string name="m123_ini_ensayo">Generar informe</string>
+    
+    <!-- Muestra 125 - 126 -->
+
+    <string name="m1256">Determinación del límite líquido de los suelos\nLímite plástico e índice de plasticidad\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="m1256_crear_perforacion">Si no se ha creado previamente la perforación pulse aquí:</string>
+    <string name="m1256_con">Consultar Muestra</string>
+    <string name="m1256_perforacion">Elija una perforación para seleccionar las muestras:</string>
+    <string name="m1256_crear_muestra_ll">Para crear la muestra o las muestras de límite líquido que harán parte del ensayo pulse aquí:</string>
+    <string name="m1256_crear_muestra_lp">Para crear la muestra o las muestras de límite plástico que harán parte del ensayo pulse aquí:</string>
+    <string name="m1256_crear_muestra_hn">Para crear la muestra de humedad natural que hará parte del ensayo pulse aquí:</string>
+    <string name="m1256_mue_add_ll">Crear muestra para límite líquido</string>
+    <string name="m1256_mue_add_lp">Crear muestra para límite plástico</string>
+    <string name="m1256_mue_add_hn">Crear muestra para humedad natural</string>
+    <string name="m1256_cant">Ingrese cantidad de muestras:</string>
+    <string name="m1256_hn_rn">Recipiente número</string>
+    <string name="m1256_hn_pshr">Peso suelo humedo + recipiente (g)</string>
+    <string name="m1256_hn_pssr">Peso suelo seco + recipiente (g)</string>
+    <string name="m1256_hn_pa">Peso agua (g)</string>
+    <string name="m1256_hn_pr">Peso recipiente (g)</string>
+    <string name="m1256_hn_pss">Peso suelo seco (g)</string>
+    <string name="m1256_hn_ch">Contenido de humedad (%)</string>
+    <string name="m1256_ll_rn">Recipiente número</string>
+    <string name="m1256_ll_pshr">Peso suelo humedo + recipiente (g)</string>
+    <string name="m1256_ll_pssr">Peso suelo seco + recipiente (g)</string>
+    <string name="m1256_ll_pa">Peso agua (g)</string>
+    <string name="m1256_ll_pr">Peso recipiente (g)</string>
+    <string name="m1256_ll_pss">Peso suelo seco (g)</string>
+    <string name="m1256_ll_ch">Contenido de humedad (%)</string>
+    <string name="m1256_ll_ng">Número de golpes</string>
+    <string name="m1256_ll_ll">Límite líquido (%)</string>
+    <string name="m1256_lp_rn">Recipiente número</string>
+    <string name="m1256_lp_pshr">Peso suelo humedo + recipiente (g)</string>
+    <string name="m1256_lp_pssr">Peso suelo seco + recipiente (g)</string>
+    <string name="m1256_lp_pa">Peso agua (g)</string>
+    <string name="m1256_lp_pr">Peso recipiente (g)</string>
+    <string name="m1256_lp_pss">Peso suelo seco (g)</string>
+    <string name="m1256_lp_ch">Contenido de humedad (%)</string>
+    <string name="m1256_lp_lp">Límite plastico (%)</string>
+    <string name="m1256_ll">% L. L.</string>
+    <string name="m1256_lp">% L. P.</string>
+    <string name="m1256_ip">% I. de P.</string>
+    <string name="m1256_pp200">% pasa 200</string>
+    <string name="m1256_aashto">A.A.S.H.T.O.</string>
+    <string name="m1256_ig">IG</string>
+    <string name="m1256_usc">U.S.C.</string>
+    <string name="m1256_il">I. Liquidez</string>
+    <string name="m1256_cr">CR</string>
+    <string name="m1256_ini_ensayo">Generar informe</string>
+    
+    <!-- Muestra 127 -->
+
+    <string name="m127">Determinación de los factores de contracción de los suelos\nNorma INV E 127 07</string>
+    <string name="m127_list">Listado de muestras</string>
+    <string name="m127_mod">Modificar Muestra</string>
+    <string name="m127_con">Consultar Muestra</string>
+    <string name="m127_add">Crear muestra</string>
+    <string name="m127_crear_perforacion">Si no se ha creado previamente la perforación pulse aquí:</string>
+    <string name="m127_crear_muestra">Si no se ha creado previamente la muestra pulse aquí:</string>
+    <string name="m127_perforacion">Elija una perforación para seleccionar las muestras:</string>
+    <string name="m127_mue_add">Crear muestra</string>
+    <string name="m127_ini_ensayo">Generar informe</string>
+    <string name="m127_numero">Numero:</string>
+	<string name="m127_tipo">Tipo:</string>
+	<string name="m127_w">Contenido de agua (%)</string>
+	<string name="m127_w1">Masa del recipiente y del espécimen húmedo (g)</string>
+	<string name="m127_w2">Masa del recipiente y del espécimen seco (g)</string>
+	<string name="m127_w3">Masa del recipiente (g)</string>
+	<string name="m127_lc">Límite de contracción (%)</string>
+	<string name="m127_lc_op">Límite de contracción (%), método opcional</string>
+	<string name="m127_v">Volumen de la pastilla de suelo húmedo (cm³)</string>
+	<string name="m127_vo">Volumen de la pastilla de suelo secada al horno (cm³)</string>
+	<string name="m127_wo">Masa de la pastilla de suelo seco(g)</string>
+	<string name="m127_miw">Masa unitaria del agua (g/cm³) (aproximadamente 1.0 g/cm³)</string>
+	<string name="m127_miw_num">1.0</string>
+	<string name="m127_r">Relación de contracción (g/cm³)</string>
+	<string name="m127_gs">Peso específico real de los sólidos</string>
+	<string name="m127_cv">Cambio volumétrico</string>
+	<string name="m127_wi">Contenido de agua dado, superior al límite de contracción</string>
+	<string name="m127_cl">Contracción lineal</string>
+    
+    <!-- Generar informe -->
+
+    <string name="gen_inf">Se ha generado el informe</string>
+    
+    <!-- Anotacion -->
+
+    <string name="ano">Anotación</string>
+    <string name="ano_id">Id:</string>
+    <string name="ano_add">Crear anotación</string>
+    <string name="ano_cre">Crear anotacion</string>
+    <string name="ano_con">Consultar anotacion</string>
+    <string name="ano_nota">Anotacion:</string>
+    
+    <!-- Captura -->
+
+    <string name="cap">Captura</string>
+    <string name="cap_id">Id:</string>
+    <string name="cap_add">Crear captura</string>
+    <string name="cap_cre">Capturar imagen</string>
+    <string name="cap_con">Consultar imagen</string>
+    <string name="cap_imagen">Imagen:</string>
+    <string name="cap_nota">Anotacion:</string>
+
+    <!-- Normas -->
+
+    <string name="n_122">Determinación en laboratorio del contenido de agua (humedad) de suelo, roca y mezclas de suelo-agregado\nNorma INV E 122 07</string>
+    <string name="n_122_cre">Crear Muestra\nNorma INV E 122 07</string>
+    <string name="n_122_mod">Modificar Muestra\nNorma INV E 122 07</string>
+    <string name="n_122_con">Consultar Muestra\nNorma INV E 122 07</string>
+    <string name="n_123">Análisis granulométrico de suelos por tamizado\nNorma INV E 123 07</string>
+    <string name="n_123_cre">Crear Muestra\nNorma INV E 123 07</string>
+    <string name="n_123_mod">Modificar Muestra\nNorma INV E 123 07</string>
+    <string name="n_123_con">Consultar Muestra\nNorma INV E 123 07</string>
+    <string name="n_125">Determinación del límite líquido de los suelos\nNorma INV E 125 07</string>
+    <string name="n_126">Límite plástico e índice de plasticidad\nNorma INV E 126 07</string>
+   	<string name="n_1256_hn_cre">Crear Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_hn_mod">Modificar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_hn_con">Consultar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_ll_cre">Crear Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_ll_mod">Modificar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_ll_con">Consultar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_lp_cre">Crear Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_lp_mod">Modificar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_1256_lp_con">Consultar Muestra\nNorma INV E 125 07\nNorma INV E 126 07</string>
+    <string name="n_127">Determinación de los factores de contracción de los suelos\nNorma INV E 127 07</string>
+    <string name="n_127_cre">Crear Muestra\nNorma INV E 127 07</string>
+    <string name="n_127_mod">Modificar Muestra\nNorma INV E 127 07</string>
+    <string name="n_127_con">Consultar Muestra\nNorma INV E 127 07</string>
+     
+    <string-array name="n_item">
+        <item>Norma INV E 122 07</item>
+	    <item>Norma INV E 123 07</item>
+	    <item>Norma INV E 125 07 Y Norma INV E 126 07</item>
+	    <item>Norma INV E 127 07</item>
+    </string-array>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

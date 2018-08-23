@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondow03" >
+
+    <LinearLayout
+        android:id="@+id/ll_ayuda_09"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_ayuda_titulo_09"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/a09"
+            android:textColor="@color/azul_0"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="100dp"
+            android:layout_height="94dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@+id/imageView1"
+            android:src="@drawable/nota_gray" />
+
+        <TextView
+            android:id="@+id/tv_ayuda"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="@string/a_t_09"
+            android:textColor="@color/azul_1"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</ScrollView>

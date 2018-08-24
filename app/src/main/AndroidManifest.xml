@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.qbo3d.qlab">
 
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,12 +12,199 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".Interface.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <!-- Elv -->
+        <activity android:name=".Interface.Elv_Laboratorio" >
+        </activity>
+        <activity  android:name=".Interface.Elv_Norma" >
+        </activity>
+
+        <!-- Herr -->
+        <activity android:name=".Interface.Herr_Imagenes" >
+        </activity>
+        <activity  android:name=".Interface.Herr_Equipos" >
+        </activity>
+        <activity android:name=".Interface.Herr_Capturar" >
+        </activity>
+        <activity android:name=".Interface.Herr_Ayuda" >
+        </activity>
+
+        <!-- Activity Puente Usuario -->
+        <activity android:name=".Interface.Puente_Usu" >
+        </activity>
+        <!-- Activity Puente Proyecto -->
+        <activity android:name=".Interface.Puente_Pro" >
+        </activity>
+        <!-- Activity Puente Ensayo -->
+        <activity android:name=".Interface.Puente_Ens" >
+        </activity>
+        <!-- Activity Puente Perforacion -->
+        <activity android:name=".Interface.Puente_Per" >
+        </activity>
+        <!-- Activity Puente Anotacion -->
+        <activity android:name=".Interface.Puente_Ano" >
+        </activity>
+        <!-- Activity Puente Captura -->
+        <activity android:name=".Interface.Puente_Cap" >
+        </activity>
+        <!-- Activity Puente Ens_M122 -->
+        <activity android:name=".Interface.Puente_Ens_M122" >
+        </activity>
+        <!-- Activity Puente Ens_M123 -->
+        <activity android:name=".Interface.Puente_Ens_M123" >
+        </activity>
+        <!-- Activity Puente Ens_M1256 -->
+        <activity android:name=".Interface.Puente_Ens_M1256" >
+        </activity>
+        <!-- Activity Puente Ens_M127 -->
+        <activity android:name=".Interface.Puente_Ens_M127" >
+        </activity>
+
+        <!-- Usuario -->
+        <activity android:name=".Interface.Lab_Usuario_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Usuario_Modificar" >
+        </activity>
+        <activity android:name=".Interface.Lab_Usuario_Consultar" >
+        </activity>
+
+        <!-- Proyecto -->
+        <activity android:name=".Interface.Lab_Proyecto_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Proyecto_Modificar" >
+        </activity>
+        <activity android:name=".Interface.Lab_Proyecto_Consultar" >
+        </activity>
+        <activity android:name=".Interface.Ini_Proyecto" >
+        </activity>
+
+        <!-- Ensayo -->
+        <activity android:name=".Interface.Lab_Ensayo_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Ensayo_Modificar" >
+        </activity>
+        <activity android:name=".Interface.Lab_Ensayo_Consultar" >
+        </activity>
+
+        <!-- Perforacion -->
+        <activity android:name=".Interface.Lab_Perforacion_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Perforacion_Modificar" >
+        </activity>
+        <activity android:name=".Interface.Lab_Perforacion_Consultar" >
+        </activity>
+        <activity android:name=".Interface.Lab_Perforacion_M1256_Consultar" >
+        </activity>
+
+        <!-- Anotacion -->
+        <activity android:name=".Interface.Lab_Ano_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Ano_Consultar" >
+        </activity>
+
+        <!-- Captura -->
+        <activity android:name=".Interface.Lab_Cap_Crear" >
+        </activity>
+        <activity android:name=".Interface.Lab_Cap_Consultar" >
+        </activity>
+
+        <!-- Listas -->
+        <activity android:name=".Interface.Lista_Usuario" >
+        </activity>
+        <activity android:name=".Interface.Lista_Proyecto" >
+        </activity>
+        <activity android:name=".Interface.Lista_Ensayo" >
+        </activity>
+        <activity android:name=".Interface.Lista_Perforacion" >
+        </activity>
+        <activity android:name=".Interface.Lista_Anotacion" >
+        </activity>
+        <activity android:name=".Interface.Lista_Captura" >
+        </activity>
+        <activity android:name=".Interface.Lista_M122" >
+        </activity>
+        <activity android:name=".Interface.Lista_M123" >
+        </activity>
+        <activity android:name=".Interface.Lista_M1256_HN" >
+        </activity>
+        <activity android:name=".Interface.Lista_M1256_LL" >
+        </activity>
+        <activity android:name=".Interface.Lista_M1256_LP" >
+        </activity>
+        <activity android:name=".Interface.Lista_M127" >
+        </activity>
+
+
+        <!-- Norma Laboratorio Crear -->
+        <activity android:name=".Interface.N_INV_122_Crear" >
+        </activity>
+        <activity android:name=".Interface.N_INV_123_Crear" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_HN_Crear" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_LL_Crear" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_LP_Crear" >
+        </activity>
+        <activity android:name=".Interface.N_INV_127_Crear" >
+        </activity>
+
+        <!-- Norma Laboratorio Consultar -->
+        <activity android:name=".Interface.N_INV_122_Consultar" >
+        </activity>
+        <activity android:name=".Interface.N_INV_123_Consultar" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_HN_Consultar" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_LL_Consultar" >
+        </activity>
+        <activity android:name=".Interface.N_INV_1256_LP_Consultar" >
+        </activity>
+        <activity android:name=".Interface.N_INV_127_Consultar" >
+        </activity>
+
+        <!-- Ensayo Crear Laboratorio -->
+        <activity android:name=".Interface.Ens_122_Crear" >
+        </activity>
+        <activity android:name=".Interface.Ens_123_Crear" >
+        </activity>
+        <activity android:name=".Interface.Ens_1256_Crear" >
+        </activity>
+        <activity android:name=".Interface.Ens_127_Crear" >
+        </activity>
+
+        <!-- Ensayo Consultar Laboratorio -->
+        <activity android:name=".Interface.Ens_122_Consultar" >
+        </activity>
+        <activity android:name=".Interface.Ens_123_Consultar" >
+        </activity>
+        <activity android:name=".Interface.Ens_1256_Consultar" >
+        </activity>
+        <activity android:name=".Interface.Ens_127_Consultar" >
+        </activity>
+
+        <!-- Ensayo Informe Laboratorio -->
+        <activity android:name=".Interface.Ens_122_Inf" >
+        </activity>
+        <activity android:name=".Interface.Ens_123_Inf" >
+        </activity>
+        <activity android:name=".Interface.Ens_1256_Inf" >
+        </activity>
+        <activity android:name=".Interface.Ens_127_Inf" >
+        </activity>
+
+
+        <activity android:name=".Interface.Creditos" >
         </activity>
     </application>
 

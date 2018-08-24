@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -17,36 +18,41 @@ import com.qbo3d.qlab.R;
 
 public class MainActivity extends AppCompatActivity {
 
-	/**
-	 * The {@link android.support.v4.view.PagerAdapter} that will provide
-	 * fragments for each of the sections. We use a
-	 * {@link FragmentPagerAdapter} derivative, which will keep every
-	 * loaded fragment in memory. If this becomes too memory intensive, it
-	 * may be best to switch to a
-	 * {@link android.support.v4.app.FragmentStatePagerAdapter}.
-	 */
+	private final String[] PAGE_TITLES = new String[] {
+			"Inicio",
+			"Proyectos",
+			"Configuración",
+			"Ayuda"
+	};
+
+	private final Fragment[] PAGES = new Fragment[] {
+			new Tab_InicioActivity(),
+			new Tab_ProyectoActivity(),
+			new Tab_ConfigurarActivity(),
+			new Tab_AyudaActivity()
+	};
+
 	private SectionsPagerAdapter mSectionsPagerAdapter;
 
-	/**
-	 * The {@link ViewPager} that will host the section contents.
-	 */
 	private ViewPager mViewPager;
-	private Fragment mContent;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		Toolbar toolbar = findViewById(R.id.toolbar);
+		setSupportActionBar(toolbar);
+
 		// Create the adapter that will return a fragment for each of the three
 		// primary sections of the activity.
 		mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
 
 		// Set up the ViewPager with the sections adapter.
-		mViewPager = findViewById(R.id.container);
+		mViewPager = findViewById(R.id.tabcontent);
 		mViewPager.setAdapter(mSectionsPagerAdapter);
 
-		TabLayout tabLayout = findViewById(R.id.tabs);
+		TabLayout tabLayout = findViewById(R.id.tab_layout);
 
 		mViewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
 		tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
@@ -127,24 +133,31 @@ public class MainActivity extends AppCompatActivity {
 		@Override
 		public Fragment getItem(int position) {
 
-			switch (position) {
-				case 0:
-					return Tab_InicioActivity.newInstance(0, "Inicio");
-				case 1:
-					return Tab_ProyectoActivity.newInstance(1, "Proyecto");
-				case 2:
-					return Tab_ConfigurarActivity.newInstance(2, "Configuración");
-				case 3:
-					return Tab_AyudaActivity.newInstance(3, "Ayuda");
-				default:
-					return null;
-			}
+//			switch (position) {
+//				case 0:
+//					return Tab_InicioActivity.newInstance(0, "Inicio");
+//				case 1:
+//					return Tab_ProyectoActivity.newInstance(1, "Proyecto");
+//				case 2:
+//					return Tab_ConfigurarActivity.newInstance(2, "Configuración");
+//				case 3:
+//					return Tab_AyudaActivity.newInstance(3, "Ayuda");
+//				default:
+//					return null;
+//			}
+
+			return PAGES[position];
 		}
 
 		@Override
 		public int getCount() {
 			// Show 3 total pages.
-			return 4;
+			return PAGES.length;
+		}
+
+		@Override
+		public CharSequence getPageTitle(int position) {
+			return PAGE_TITLES[position];
 		}
 	}
 }

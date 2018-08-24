@@ -2,9 +2,9 @@
     
     <!-- Strings -->
 
-    <string name="app_name">UD Lab</string>
+    <string name="app_name">QLab</string>
     <string name="hello_world">Hello world!</string>
-    <string name="title_activity_main">UD Lab</string>
+    <string name="title_activity_main">QLab</string>
     <string name="norma_activity">Ir a layout de normas</string>
     <string name="calculo_activity">Ir a layout de calculos</string>
     <string name="ayuda_activity">Ayudaaaaa</string>

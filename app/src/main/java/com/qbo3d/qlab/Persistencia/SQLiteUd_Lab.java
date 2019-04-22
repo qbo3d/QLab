@@ -425,10 +425,10 @@ public class SQLiteUd_Lab extends SQLiteOpenHelper {
 //	Inserts
 	
 	String sqlInsertUsuario =
-			"INSERT INTO 'Usuario' ('usu_Cedula','usu_Nombre','usu_Apellido','usu_Codigo','usu_FechaNacimiento','usu_Foto','usu_Email','usu_Cel','usu_Tipo') VALUES (80865551, 'Sergio', 'Mesa', 20032079034, '1986-0-30', 'content://media/external/images/media/1', 'seermebe@hotmail.com', 3153683454, 'Administrativo');";
+			"INSERT INTO 'Usuario' ('usu_Cedula','usu_Nombre','usu_Apellido','usu_Codigo','usu_FechaNacimiento','usu_Foto','usu_Email','usu_Cel','usu_Tipo') VALUES (1014261656, 'Tatiana', 'Perez', 10481816028, '1995-0-10', 'content://media/external/images/media/1', 'tperez56@uan.edu.co', 3182096997, 'Administrativo');";
 	
 	String sqlInsertProyecto =
-			"INSERT INTO 'Proyecto' ('pro_Nombre','pro_Localizacion','pro_Fecha','pro_usu_Cedula_Fk') VALUES ( 'Proyecto 01', 'Bogotá', '2013-0-5', 80865551);";
+			"INSERT INTO 'Proyecto' ('pro_Nombre','pro_Localizacion','pro_Fecha','pro_usu_Cedula_Fk') VALUES ( 'Proyecto 01', 'Bogotá', '2013-0-5', 1014261656);";
 	
 	String sqlInsertEnsayo122 =
 			"INSERT INTO 'Ensayo' ( 'ens_Numero','ens_Descripcion_Suelo','ens_Fecha','ens_Norma','ens_pro_Nombre_Fk') VALUES ( 'ens122', 'Ninguna', '2013-0-5', 'Norma INV E 122 07', 'Proyecto 01');";
